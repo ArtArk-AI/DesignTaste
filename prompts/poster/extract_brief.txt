@@ -1,0 +1,11 @@
+Write a standalone design brief for a designer who has not seen the attached poster.
+
+Catalogue title, as a clue for checking the subject only: {work_title}. Do not treat it as wording the new poster must reproduce.
+
+First identify the poster's actual communication task from clearly legible words and identifiable subjects or events. Imagery may clarify these clues, but a visual motif, pun, or ambiguous slogan alone does not establish an event, political stance, product, or target audience. Separate supported facts from your interpretation.
+
+In one short paragraph, describe the central subject, communication purpose, and only the context needed to understand the assignment. A poster may present an artwork or project without advertising an event, advocating a cause, or inviting attendance. Include a proper name only when needed to identify the subject; never require exact wording. The brief must be usable without the source image.
+
+Keep only essential information. Omit accompanying exhibitions, secondary programme items, credits, and schedule or location details unless they define the central task. Do not turn explanatory captions about production methods or technical steps into design requirements; if a creative concept is central, summarize it in plain language. Do not invent facts or prescribe imagery, colors, typography, layout, composition, or style. Do not mention the source poster, its visible text, or an evaluator.
+
+If the subject or purpose remains uncertain, the catalogue title conflicts with visible content, or only ambiguous wording and abstract imagery support a guess, output exactly 'REVIEW_REQUIRED: ' followed by a short reason. Otherwise, output one concise paragraph in English, with no JSON, list, or heading.

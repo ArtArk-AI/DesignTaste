@@ -1,0 +1,6 @@
+Create one original, finished visual response to the assignment below as a single still image.
+Discipline: {discipline}
+Specific category: {category}
+Assignment: <design_brief>{brief}</design_brief>
+
+Make the result appropriate to its actual category and brief. A book may need a cover or spread; packaging may need a package view; an identity may need one application; architecture may need a spatial view; digital, interactive, or moving work may need one representative screen or frame. These are examples, not a required format. For a series or system, show one coherent representative component or view. A relevant detail, graphic component, or close-up can also be effective. Do not default to a poster, case-study board, or presentation slide. Choose the idea, visual language, copy, composition, framing, and orientation freely. Show a meaningful part of the proposed work directly. Treat the brief as creative direction, not text to print into the image. Use supplied proper names only if useful, and do not invent dates, sponsors, performance claims, or other unsupported facts. An honorary category names a recognition, not the object to draw: when the brief requests a visual profile or tribute, express the person's practice rather than depicting a medal, trophy, or certificate.

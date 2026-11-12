@@ -1,0 +1,14 @@
+track: adc
+manifest: data/manifests/adc.csv
+briefs: data/briefs/adc.jsonl
+rubric: data/rubrics/adc.json
+prompts:
+  extraction: prompts/adc/extract_brief.txt
+  review: prompts/adc/review_brief.txt
+  generation: prompts/adc/generate_image.txt
+  scoring: prompts/adc/score_image.txt
+image_policy:
+  resolution: 1K
+  azure_canvas: auto
+  nano_banana_pro_canvas: auto_or_nearest_supported_ratio
+  seedream_canvas: auto_or_nearest_supported_ratio

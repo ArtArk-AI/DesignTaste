@@ -1,0 +1,14 @@
+track: poster
+manifest: data/manifests/poster.csv
+briefs: data/briefs/poster.jsonl
+rubric: data/rubrics/poster.json
+prompts:
+  extraction: prompts/poster/extract_brief.txt
+  review: prompts/poster/review_brief.txt
+  generation: prompts/poster/generate_image.txt
+  scoring: prompts/poster/score_image.txt
+image_policy:
+  resolution: 1K
+  azure_canvas: auto
+  nano_banana_pro_canvas: match_reference_as_supported
+  seedream_canvas: match_reference_as_supported

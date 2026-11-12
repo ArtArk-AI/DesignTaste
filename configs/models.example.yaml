@@ -1,0 +1,20 @@
+models:
+  - id: artark
+    display_name: ArtArk
+    provider: artark
+    tier: L3
+  - id: gpt-image-2.5-sunburst
+    display_name: GPT-Image-2.5 Sunburst
+    provider: azure
+  - id: gpt-image-2
+    display_name: GPT-Image-2
+    provider: azure
+  - id: gpt-image-2.5-flare
+    display_name: GPT-Image-2.5 Flare
+    provider: azure
+  - id: nano-banana-pro
+    display_name: Nano Banana Pro
+    provider: baidu_vod
+  - id: doubao-seedream-5-0-pro-260628
+    display_name: Seedream 5.0 Pro
+    provider: volcengine

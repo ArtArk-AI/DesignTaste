@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: "DesignTaste: Benchmarking AI-Generated Visual Design Against Award-Winning Works"
+type: software
+message: "If you use DesignTaste, please cite this repository."
+authors:
+  - family-names: Chen
+    given-names: Zhou
+  - family-names: Li
+    given-names: JiaXiang
+  - family-names: Pan
+    given-names: DanYing
+  - family-names: Li
+    given-names: Ye
+  - family-names: Yang
+    given-names: TianRui
+  - family-names: Zhang
+    given-names: EnBao
+  - family-names: Xiao
+    given-names: YaNan
+  - family-names: Sun
+    given-names: LiXin
+  - family-names: Liu
+    given-names: Anqi
+  - family-names: Zhao
+    given-names: Dong
+  - family-names: Li
+    given-names: JianYuan
+  - family-names: Ding
+    given-names: YuanYuan
+  - family-names: Kong
+    given-names: Kai
+  - family-names: Xu
+    given-names: Xinwen
+  - family-names: Du
+    given-names: HuiTang
+  - family-names: Zhou
+    given-names: Min
+  - family-names: Li
+    given-names: Zhiqiang
+repository-code: "https://github.com/ArtArk-AI/DesignTaste"
+url: "https://github.com/ArtArk-AI/DesignTaste"
+version: 0.1.0
+date-released: 2026-10-25
+license: MIT

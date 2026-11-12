@@ -1,0 +1,87 @@
+{
+  "version": "adc-static-v7",
+  "evaluation_scope": "以审核后、根据有限资料还原的 brief 为背景，分别评价匿名单张图像。结合媒介和受众判断可见设计。brief 并非经过核实的原始客户要求，一张图片也无法证明整个项目的全部意图和效果。",
+  "basis": {
+    "method": "这套 TasteBench 规则参考设计奖项的评审原则。本次修订纠正逐句核对 brief、重复扣分、要求局部图片展示完整项目的问题。保留五项维度标识；当前加权比例为 20:30:15:20:15。所有来源均按同一规则独立评分。",
+    "official_sources": [
+      {
+        "competition": "D&AD Awards",
+        "url": "https://www.dandad.org/awards/judging",
+        "relevant_principles": "结合设计类别评价创意、执行和影响力。"
+      },
+      {
+        "competition": "Red Dot Brands & Communication Design",
+        "url": "https://www.red-dot.org/bcd/red-dot-jury",
+        "relevant_principles": "关注创意、形式和传播效果，包括内容是否易于理解、能否打动受众。"
+      },
+      {
+        "competition": "Red Dot Product Design",
+        "url": "https://www.red-dot.org/pd/red-dot-jury",
+        "relevant_principles": "关注功能、美感、使用体验和设计责任。本评测只评价图片能够展示的部分。"
+      },
+      {
+        "competition": "GOOD DESIGN AWARD",
+        "url": "https://www.g-mark.org/en/apply/gda/screening/perspective",
+        "relevant_principles": "结合设计目的、使用者、使用场景、创意和完成质量评价。实际使用体验和社会影响需要图片之外的证据。"
+      }
+    ]
+  },
+  "score_scale": "各项按 0 至 10 分取整数。0-2 分：可见部分严重失误；3-4 分：存在明显不足；5-6 分：基本完成或优缺点并存；7-8 分：有具体可见依据支撑的优秀作品；9-10 分：依据充分、表现卓越。没有展示某项推测的目标，不等于设计失败。相关局部、克制设计和含蓄表达都可以获得高分。逐条复述 brief、写明设计理念或展示完整效果图，不自动获得高分。对证据不足之处说明判断范围，不假定成功或失败。",
+  "dimensions": [
+    {
+      "id": "brief_fit",
+      "name": "设计目标",
+      "weight": 20,
+      "criterion": "评价可见设计是否对主要主题、受众和用途作出了合理、有目的的回应。还原的 brief 用于提供背景，不是必须逐项展示的图案、信息、产品图或品牌承诺清单。隐喻、氛围、幽默、抽象表达及相关的单个应用均可能成立。本项评价方向是否合适，创意和完成质量分别在其他维度判断。低分应有明确的内容冲突或可见的实际问题作为依据，不因作品没有展示每项推测的意图而扣分，也不假定未展示的要求已经完成。"
+    },
+    {
+      "id": "concept_strength",
+      "name": "创意构思",
+      "weight": 30,
+      "criterion": "评价统领作品的视觉或结构构思是否清楚、有想象力，并得到了充分展开。观察形式、图像、文字、材料或空间之间的关系如何让构思成立。一个有力的设计选择即可支撑作品，不要求固定数量的手法，也不要求构思只能供某个品牌使用。常见题材可以通过精准或出人意料的处理产生新意，克制也可以形成鲜明特点。若做法常规或展开不足，应指出具体可见原因。直白解释 brief 和增加表面细节都不能代替构思。"
+    },
+    {
+      "id": "category_fit",
+      "name": "媒介运用",
+      "weight": 15,
+      "criterion": "评价作品如何运用实际媒介和接触方式，包括标志、版面、包装、界面、产品、空间、图像、影片画面或相关局部。根据可见内容判断版式、尺度、层级、观看距离与媒介特点的关系。局部、平面原稿或单个应用不必证明整个系统。只有某项功能确为可见作品的使用所必需时，才因其缺失扣分。不因有实物效果图而优待，也不推测未展示的功能、动态或制造效果。"
+    },
+    {
+      "id": "visual_craft",
+      "name": "视觉表现",
+      "weight": 20,
+      "criterion": "评价构图、字体、色彩、图像、空间或产品造型及相关细节的控制与协调程度，结合实际观看距离判断这些选择是否有意且完成充分。摄影和插画本身是交付作品时，应评价其图像处理；精美场景或渲染不能代替被展示作品的设计质量。错误字形、占位内容和细节不一致，须确实可见且有实际影响才计入不足。允许有意粗粝、非常规比例和实验形式，不默认写实或复杂更好。"
+    },
+    {
+      "id": "visible_communication",
+      "name": "传达效果",
+      "weight": 15,
+      "criterion": "评价可见作品能否向受众传达主要信息、特点、感受或行动邀请。信息传达是任务重点时，检查信息顺序和必要文字的可读性。表达性作品可以借助图像、鲜明性格、幽默或有意义的多义性传达，不必配上口号、产品说明或直白的主题图像。不能要求还原 brief 中的全部策略目标都从一张图读出。扣分应指出真实的理解障碍，不推断实际受众反应，也不因自述效果出色而加分。"
+    }
+  ],
+  "weight_revision": {
+    "dimension_order": [
+      "brief_fit",
+      "concept_strength",
+      "category_fit",
+      "visual_craft",
+      "visible_communication"
+    ],
+    "previous_weights": [
+      20,
+      35,
+      15,
+      20,
+      10
+    ],
+    "weights": [
+      20,
+      30,
+      15,
+      20,
+      15
+    ],
+    "method": "posthoc reweighting of existing five-dimension judgments; no image or dimension score changed",
+    "updated_at": "2026-10-19T12:33:07.144024+00:00"
+  }
+}

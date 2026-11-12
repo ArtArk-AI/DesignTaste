@@ -1,0 +1,8 @@
+Review the attached poster and its draft design brief. The catalogue title is a clue, not mandatory copy. First identify the poster's actual subject and communication purpose from legible words, using imagery only as supporting evidence. Do not assume that an object or visual motif establishes an event, cause, product, or target audience.
+
+Catalogue title: {work_title}
+Draft brief: {brief}
+
+Return fail if the draft misidentifies the subject or event type, invents unsupported facts, requires details that the poster does not support, prescribes the source's visual treatment, or is too vague to guide another designer. A REVIEW_REQUIRED draft fails. Do not fail merely because the brief omits exact copy, dates, addresses, or minor details. If the poster's central task cannot be established reliably, fail and say what remains uncertain.
+
+Return only JSON with verdict ('pass' or 'fail') and reason (one concise, specific sentence). For a failure, name the conflicting or missing subject when it is supported by the image.

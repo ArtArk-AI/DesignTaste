@@ -1,0 +1,87 @@
+{
+  "version": "adc-static-v7",
+  "evaluation_scope": "Assess one anonymous still using the reviewed, reconstructed brief as context. Judge the visible design in its medium and for its audience. The brief is not a verified original client specification, and a single image cannot demonstrate every project intention or result.",
+  "basis": {
+    "method": "A TasteBench adaptation of design-award principles. This revision corrects literal brief checking, repeated deductions, and demands for an entire project from a single view. It retains the five dimension IDs; the current aggregation weights are 20:30:15:20:15. Every source is assessed independently using identical rules.",
+    "official_sources": [
+      {
+        "competition": "D&AD Awards",
+        "url": "https://www.dandad.org/awards/judging",
+        "relevant_principles": "Ideas, craft, and impact, considered in the relevant design category."
+      },
+      {
+        "competition": "Red Dot Brands & Communication Design",
+        "url": "https://www.red-dot.org/bcd/red-dot-jury",
+        "relevant_principles": "Idea, form, and audience impact, including comprehensibility and emotional appeal."
+      },
+      {
+        "competition": "Red Dot Product Design",
+        "url": "https://www.red-dot.org/pd/red-dot-jury",
+        "relevant_principles": "Function, aesthetic quality, use, and responsibility; only visible design evidence is assessed here."
+      },
+      {
+        "competition": "GOOD DESIGN AWARD",
+        "url": "https://www.g-mark.org/en/apply/gda/screening/perspective",
+        "relevant_principles": "Purpose, users, context, creativity, and quality. Actual usability and societal outcomes require evidence beyond one still."
+      }
+    ]
+  },
+  "score_scale": "Use integers from 0 to 10. 0-2: serious visible failure; 3-4: substantial visible weakness; 5-6: competent or mixed; 7-8: strong work with specific visible support; 9-10: exceptional work with unusually strong support. Missing evidence of an inferred ambition is not a demonstrated failure. A relevant detail, a restrained design, or an indirect expression can earn high scores. Neither literal brief coverage, explicit explanatory text, nor a complete-looking presentation automatically earns high scores. State evidence limits without assuming success or failure.",
+  "dimensions": [
+    {
+      "id": "brief_fit",
+      "name": "Design objectives",
+      "weight": 20,
+      "criterion": "Judge whether the visible design is a purposeful, plausible response to the core subject, audience, and use. The reconstructed brief supplies context, not a checklist of mandatory motifs, messages, product views, or brand promises. Metaphor, atmosphere, humor, abstraction, and a relevant single component may be valid responses. Assess the appropriateness of the direction separately from its originality or finish. Lower scores require a clear contradiction or a practical shortcoming supported by the visible work, rather than failure to display every inferred intention. Do not assume unseen requirements have been met."
+    },
+    {
+      "id": "concept_strength",
+      "name": "Concept",
+      "weight": 30,
+      "criterion": "Assess the clarity, imagination, and development of the organizing visual or structural idea. Look at how relationships among form, imagery, typography, materials, or space make the idea convincing. One decisive choice may be enough; do not require a fixed count of devices or an idea that only this brand could use. A familiar motif can be transformed through a precise or unexpected treatment, and restraint can be distinctive. Recognize when an approach remains conventional or insufficiently developed, citing what is visible. Neither literal explanation of the brief nor surface elaboration substitutes for a strong idea."
+    },
+    {
+      "id": "category_fit",
+      "name": "Use of medium",
+      "weight": 15,
+      "criterion": "Assess how the artifact uses its actual medium and encounter: a mark, page, package, interface, object, space, image, motion frame, or relevant component. Consider format, scale, hierarchy, viewing distance, and the opportunities of the medium where visible. A detail, flat artwork, or single application need not demonstrate an entire system. Count a missing feature only when it is demonstrably necessary to the visible artifact's use. Do not prefer a staged mockup over a direct artifact or infer unseen function, motion, or fabrication."
+    },
+    {
+      "id": "visual_craft",
+      "name": "Visual execution",
+      "weight": 20,
+      "criterion": "Assess control and coherence of composition, typography, color, imagery, spatial or product form, and relevant details. Examine whether these choices are deliberate and resolved at the apparent viewing distance. Photography and illustration count when they are the designed work; a polished setting or render is not a substitute for the quality of the artifact it presents. Count malformed lettering, placeholder content, or inconsistent details only when visibly established and consequential. Allow intentional roughness, unusual proportions, and experimental forms. Neither realism nor complexity is inherently better."
+    },
+    {
+      "id": "visible_communication",
+      "name": "Communication",
+      "weight": 15,
+      "criterion": "Assess how effectively the visible work conveys its main information, character, feeling, or invitation to its intended audience. Judge information order and essential legibility where these are part of the task. In expressive work, an evocative image, recognizable character, humor, or productive ambiguity can communicate without a slogan, product explanation, or direct depiction of the topic. Do not require every strategic aim in the reconstructed brief to be readable in the image. Cite an actual communication obstacle before deducting; do not infer measured audience response or reward claims of effectiveness."
+    }
+  ],
+  "weight_revision": {
+    "dimension_order": [
+      "brief_fit",
+      "concept_strength",
+      "category_fit",
+      "visual_craft",
+      "visible_communication"
+    ],
+    "previous_weights": [
+      20,
+      35,
+      15,
+      20,
+      10
+    ],
+    "weights": [
+      20,
+      30,
+      15,
+      20,
+      15
+    ],
+    "method": "posthoc reweighting of existing five-dimension judgments; no image or dimension score changed",
+    "updated_at": "2026-10-19T12:33:07.144024+00:00"
+  }
+}

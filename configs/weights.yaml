@@ -1,0 +1,3 @@
+# Weights are applied in dimension order from the track rubric.
+weights: [2, 3, 1.5, 2, 1.5]
+scale: 100

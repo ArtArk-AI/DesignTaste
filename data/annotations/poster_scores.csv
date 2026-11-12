@@ -1,0 +1,701 @@
+track,task_id,title,source,model_name,judge,brief_sha256,project_group,brief_communication,conceptual_originality,visual_organization,aesthetic_expression,formal_resolution,total
+poster,1,"Dario Argento, Filmpodium Zürich",reference,Award-winning works,gpt-6.1-sol,6d8b9d969aa5e1e7a6e020e3baeb554d9180dbeb679426af10be65c549f1e168,38cd13ef8da7663d5e2b,9,8,7,9,8,82.5
+poster,1,"Dario Argento, Filmpodium Zürich",artark,ArtArk,gpt-6.1-sol,6d8b9d969aa5e1e7a6e020e3baeb554d9180dbeb679426af10be65c549f1e168,38cd13ef8da7663d5e2b,9,8,8,9,9,85.5
+poster,1,"Dario Argento, Filmpodium Zürich",gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,6d8b9d969aa5e1e7a6e020e3baeb554d9180dbeb679426af10be65c549f1e168,38cd13ef8da7663d5e2b,9,7,8,9,9,82.5
+poster,1,"Dario Argento, Filmpodium Zürich",gpt-image-2,GPT-Image-2,gpt-6.1-sol,6d8b9d969aa5e1e7a6e020e3baeb554d9180dbeb679426af10be65c549f1e168,38cd13ef8da7663d5e2b,8,6,8,8,8,74.0
+poster,1,"Dario Argento, Filmpodium Zürich",gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,6d8b9d969aa5e1e7a6e020e3baeb554d9180dbeb679426af10be65c549f1e168,38cd13ef8da7663d5e2b,8,7,8,8,8,77.0
+poster,1,"Dario Argento, Filmpodium Zürich",nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,6d8b9d969aa5e1e7a6e020e3baeb554d9180dbeb679426af10be65c549f1e168,38cd13ef8da7663d5e2b,8,6,7,8,7,71.0
+poster,1,"Dario Argento, Filmpodium Zürich",doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,6d8b9d969aa5e1e7a6e020e3baeb554d9180dbeb679426af10be65c549f1e168,38cd13ef8da7663d5e2b,8,6,7,8,7,71.0
+poster,2,Haus für Kunst Uri 2025,reference,Award-winning works,gpt-6.1-sol,8f747322980b6f567cb35f367bffbae7bc1086f43b9b12dac28c7acb3887944c,a6802e874f592a7b4bdc,8,8,7,8,7,77.0
+poster,2,Haus für Kunst Uri 2025,artark,ArtArk,gpt-6.1-sol,8f747322980b6f567cb35f367bffbae7bc1086f43b9b12dac28c7acb3887944c,a6802e874f592a7b4bdc,8,7,8,8,9,78.5
+poster,2,Haus für Kunst Uri 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,8f747322980b6f567cb35f367bffbae7bc1086f43b9b12dac28c7acb3887944c,a6802e874f592a7b4bdc,8,6,8,8,8,74.0
+poster,2,Haus für Kunst Uri 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,8f747322980b6f567cb35f367bffbae7bc1086f43b9b12dac28c7acb3887944c,a6802e874f592a7b4bdc,7,6,8,8,8,72.0
+poster,2,Haus für Kunst Uri 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,8f747322980b6f567cb35f367bffbae7bc1086f43b9b12dac28c7acb3887944c,a6802e874f592a7b4bdc,8,7,9,8,8,78.5
+poster,2,Haus für Kunst Uri 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,8f747322980b6f567cb35f367bffbae7bc1086f43b9b12dac28c7acb3887944c,a6802e874f592a7b4bdc,8,7,8,8,8,77.0
+poster,2,Haus für Kunst Uri 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,8f747322980b6f567cb35f367bffbae7bc1086f43b9b12dac28c7acb3887944c,a6802e874f592a7b4bdc,8,6,8,8,8,74.0
+poster,3,Salon d’Amour Amsterdam,reference,Award-winning works,gpt-6.1-sol,9c3cecaecc11e67bf573f46ca23c9e6a3f3a8f430d1952274c19a37da33842ec,5482381ec4e4a732abf6,8,8,7,9,8,80.5
+poster,3,Salon d’Amour Amsterdam,artark,ArtArk,gpt-6.1-sol,9c3cecaecc11e67bf573f46ca23c9e6a3f3a8f430d1952274c19a37da33842ec,5482381ec4e4a732abf6,8,8,8,9,8,82.0
+poster,3,Salon d’Amour Amsterdam,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,9c3cecaecc11e67bf573f46ca23c9e6a3f3a8f430d1952274c19a37da33842ec,5482381ec4e4a732abf6,8,6,8,8,8,74.0
+poster,3,Salon d’Amour Amsterdam,gpt-image-2,GPT-Image-2,gpt-6.1-sol,9c3cecaecc11e67bf573f46ca23c9e6a3f3a8f430d1952274c19a37da33842ec,5482381ec4e4a732abf6,8,7,8,8,8,77.0
+poster,3,Salon d’Amour Amsterdam,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,9c3cecaecc11e67bf573f46ca23c9e6a3f3a8f430d1952274c19a37da33842ec,5482381ec4e4a732abf6,8,6,9,8,9,77.0
+poster,3,Salon d’Amour Amsterdam,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,9c3cecaecc11e67bf573f46ca23c9e6a3f3a8f430d1952274c19a37da33842ec,5482381ec4e4a732abf6,8,7,8,8,8,77.0
+poster,3,Salon d’Amour Amsterdam,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,9c3cecaecc11e67bf573f46ca23c9e6a3f3a8f430d1952274c19a37da33842ec,5482381ec4e4a732abf6,8,7,8,8,8,77.0
+poster,4,Alex Hanimann in der Produktionshalle von Tobias Lenggenhager,reference,Award-winning works,gpt-6.1-sol,aa157c88ef1c1a706662fae292f7627fd0768b2be5152c8e26038460302b7b27,b10cf6d9c48296244e39,8,8,7,8,8,78.5
+poster,4,Alex Hanimann in der Produktionshalle von Tobias Lenggenhager,artark,ArtArk,gpt-6.1-sol,aa157c88ef1c1a706662fae292f7627fd0768b2be5152c8e26038460302b7b27,b10cf6d9c48296244e39,8,6,8,8,8,74.0
+poster,4,Alex Hanimann in der Produktionshalle von Tobias Lenggenhager,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,aa157c88ef1c1a706662fae292f7627fd0768b2be5152c8e26038460302b7b27,b10cf6d9c48296244e39,8,5,8,8,8,71.0
+poster,4,Alex Hanimann in der Produktionshalle von Tobias Lenggenhager,gpt-image-2,GPT-Image-2,gpt-6.1-sol,aa157c88ef1c1a706662fae292f7627fd0768b2be5152c8e26038460302b7b27,b10cf6d9c48296244e39,7,5,8,7,8,67.0
+poster,4,Alex Hanimann in der Produktionshalle von Tobias Lenggenhager,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,aa157c88ef1c1a706662fae292f7627fd0768b2be5152c8e26038460302b7b27,b10cf6d9c48296244e39,7,5,8,8,8,69.0
+poster,4,Alex Hanimann in der Produktionshalle von Tobias Lenggenhager,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,aa157c88ef1c1a706662fae292f7627fd0768b2be5152c8e26038460302b7b27,b10cf6d9c48296244e39,8,6,8,8,8,74.0
+poster,4,Alex Hanimann in der Produktionshalle von Tobias Lenggenhager,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,aa157c88ef1c1a706662fae292f7627fd0768b2be5152c8e26038460302b7b27,b10cf6d9c48296244e39,7,5,8,7,7,65.5
+poster,5,"Die Zirkulation von Arbeit, Kapital und Leben als Lieferkette – Alice Creischer & Andreas Siekmann",reference,Award-winning works,gpt-6.1-sol,29e481bf29c0d429a7e42bbc704c8396dd81a8beb547f848ecbd145249330e9c,9172eb855abb9e4650b3,9,9,8,9,8,87.0
+poster,5,"Die Zirkulation von Arbeit, Kapital und Leben als Lieferkette – Alice Creischer & Andreas Siekmann",artark,ArtArk,gpt-6.1-sol,29e481bf29c0d429a7e42bbc704c8396dd81a8beb547f848ecbd145249330e9c,9172eb855abb9e4650b3,9,8,8,9,9,85.5
+poster,5,"Die Zirkulation von Arbeit, Kapital und Leben als Lieferkette – Alice Creischer & Andreas Siekmann",gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,29e481bf29c0d429a7e42bbc704c8396dd81a8beb547f848ecbd145249330e9c,9172eb855abb9e4650b3,8,7,8,8,8,77.0
+poster,5,"Die Zirkulation von Arbeit, Kapital und Leben als Lieferkette – Alice Creischer & Andreas Siekmann",gpt-image-2,GPT-Image-2,gpt-6.1-sol,29e481bf29c0d429a7e42bbc704c8396dd81a8beb547f848ecbd145249330e9c,9172eb855abb9e4650b3,8,6,8,8,8,74.0
+poster,5,"Die Zirkulation von Arbeit, Kapital und Leben als Lieferkette – Alice Creischer & Andreas Siekmann",gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,29e481bf29c0d429a7e42bbc704c8396dd81a8beb547f848ecbd145249330e9c,9172eb855abb9e4650b3,8,6,8,7,8,72.0
+poster,5,"Die Zirkulation von Arbeit, Kapital und Leben als Lieferkette – Alice Creischer & Andreas Siekmann",nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,29e481bf29c0d429a7e42bbc704c8396dd81a8beb547f848ecbd145249330e9c,9172eb855abb9e4650b3,8,7,8,8,7,75.5
+poster,5,"Die Zirkulation von Arbeit, Kapital und Leben als Lieferkette – Alice Creischer & Andreas Siekmann",doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,29e481bf29c0d429a7e42bbc704c8396dd81a8beb547f848ecbd145249330e9c,9172eb855abb9e4650b3,8,7,8,8,8,77.0
+poster,6,ESAD Conference. Semantic Shapes,reference,Award-winning works,gpt-6.1-sol,d66f3a01d1232c740ff0d6f70e825792282f430ff0640f204ecaa4a8fc4907a3,41550817948f25119ff0,8,8,6,8,8,77.0
+poster,6,ESAD Conference. Semantic Shapes,artark,ArtArk,gpt-6.1-sol,d66f3a01d1232c740ff0d6f70e825792282f430ff0640f204ecaa4a8fc4907a3,41550817948f25119ff0,8,7,8,8,8,77.0
+poster,6,ESAD Conference. Semantic Shapes,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,d66f3a01d1232c740ff0d6f70e825792282f430ff0640f204ecaa4a8fc4907a3,41550817948f25119ff0,8,6,9,8,9,77.0
+poster,6,ESAD Conference. Semantic Shapes,gpt-image-2,GPT-Image-2,gpt-6.1-sol,d66f3a01d1232c740ff0d6f70e825792282f430ff0640f204ecaa4a8fc4907a3,41550817948f25119ff0,8,7,9,8,9,80.0
+poster,6,ESAD Conference. Semantic Shapes,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,d66f3a01d1232c740ff0d6f70e825792282f430ff0640f204ecaa4a8fc4907a3,41550817948f25119ff0,8,6,8,8,8,74.0
+poster,6,ESAD Conference. Semantic Shapes,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,d66f3a01d1232c740ff0d6f70e825792282f430ff0640f204ecaa4a8fc4907a3,41550817948f25119ff0,9,8,8,9,9,85.5
+poster,6,ESAD Conference. Semantic Shapes,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,d66f3a01d1232c740ff0d6f70e825792282f430ff0640f204ecaa4a8fc4907a3,41550817948f25119ff0,7,6,8,8,8,72.0
+poster,7,Alf Lechner 100 – Materie Stahl,reference,Award-winning works,gpt-6.1-sol,90b21b4bb22eeaac847751d78763da95e7a0e33fde64c284a698c289a3f2291d,2b1e9e7524a9ad20443b,8,8,8,8,8,80.0
+poster,7,Alf Lechner 100 – Materie Stahl,artark,ArtArk,gpt-6.1-sol,90b21b4bb22eeaac847751d78763da95e7a0e33fde64c284a698c289a3f2291d,2b1e9e7524a9ad20443b,9,7,8,9,9,82.5
+poster,7,Alf Lechner 100 – Materie Stahl,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,90b21b4bb22eeaac847751d78763da95e7a0e33fde64c284a698c289a3f2291d,2b1e9e7524a9ad20443b,8,6,8,8,8,74.0
+poster,7,Alf Lechner 100 – Materie Stahl,gpt-image-2,GPT-Image-2,gpt-6.1-sol,90b21b4bb22eeaac847751d78763da95e7a0e33fde64c284a698c289a3f2291d,2b1e9e7524a9ad20443b,8,7,8,8,8,77.0
+poster,7,Alf Lechner 100 – Materie Stahl,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,90b21b4bb22eeaac847751d78763da95e7a0e33fde64c284a698c289a3f2291d,2b1e9e7524a9ad20443b,8,6,8,8,9,75.5
+poster,7,Alf Lechner 100 – Materie Stahl,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,90b21b4bb22eeaac847751d78763da95e7a0e33fde64c284a698c289a3f2291d,2b1e9e7524a9ad20443b,8,7,8,8,8,77.0
+poster,7,Alf Lechner 100 – Materie Stahl,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,90b21b4bb22eeaac847751d78763da95e7a0e33fde64c284a698c289a3f2291d,2b1e9e7524a9ad20443b,8,7,8,8,8,77.0
+poster,8,Buy Buy Culture,reference,Award-winning works,gpt-6.1-sol,57e68ab28ec6108a90b3bd31b8ac6f059e7dec5078aa83fd477bacb5a7143803,1089b118aed7e673ef36,8,7,7,8,8,75.5
+poster,8,Buy Buy Culture,artark,ArtArk,gpt-6.1-sol,57e68ab28ec6108a90b3bd31b8ac6f059e7dec5078aa83fd477bacb5a7143803,1089b118aed7e673ef36,8,7,8,8,9,78.5
+poster,8,Buy Buy Culture,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,57e68ab28ec6108a90b3bd31b8ac6f059e7dec5078aa83fd477bacb5a7143803,1089b118aed7e673ef36,8,7,8,8,8,77.0
+poster,8,Buy Buy Culture,gpt-image-2,GPT-Image-2,gpt-6.1-sol,57e68ab28ec6108a90b3bd31b8ac6f059e7dec5078aa83fd477bacb5a7143803,1089b118aed7e673ef36,8,7,8,8,8,77.0
+poster,8,Buy Buy Culture,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,57e68ab28ec6108a90b3bd31b8ac6f059e7dec5078aa83fd477bacb5a7143803,1089b118aed7e673ef36,8,7,8,8,8,77.0
+poster,8,Buy Buy Culture,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,57e68ab28ec6108a90b3bd31b8ac6f059e7dec5078aa83fd477bacb5a7143803,1089b118aed7e673ef36,8,7,8,8,8,77.0
+poster,8,Buy Buy Culture,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,57e68ab28ec6108a90b3bd31b8ac6f059e7dec5078aa83fd477bacb5a7143803,1089b118aed7e673ef36,8,7,8,8,8,77.0
+poster,9,1. Mai 2025,reference,Award-winning works,gpt-6.1-sol,1072bb732a4b7a820521972748201a9a40d0b31a3cce881dafc1e4157a2d08a0,e8573927840844675dcc,9,9,8,9,9,88.5
+poster,9,1. Mai 2025,artark,ArtArk,gpt-6.1-sol,1072bb732a4b7a820521972748201a9a40d0b31a3cce881dafc1e4157a2d08a0,e8573927840844675dcc,8,6,8,8,8,74.0
+poster,9,1. Mai 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,1072bb732a4b7a820521972748201a9a40d0b31a3cce881dafc1e4157a2d08a0,e8573927840844675dcc,8,6,8,8,8,74.0
+poster,9,1. Mai 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,1072bb732a4b7a820521972748201a9a40d0b31a3cce881dafc1e4157a2d08a0,e8573927840844675dcc,8,6,8,8,8,74.0
+poster,9,1. Mai 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,1072bb732a4b7a820521972748201a9a40d0b31a3cce881dafc1e4157a2d08a0,e8573927840844675dcc,8,6,8,8,7,72.5
+poster,9,1. Mai 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,1072bb732a4b7a820521972748201a9a40d0b31a3cce881dafc1e4157a2d08a0,e8573927840844675dcc,8,6,7,8,8,72.5
+poster,9,1. Mai 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,1072bb732a4b7a820521972748201a9a40d0b31a3cce881dafc1e4157a2d08a0,e8573927840844675dcc,8,6,8,8,7,72.5
+poster,10,"Dario Argento, Filmpodium Zürich",reference,Award-winning works,gpt-6.1-sol,8c620c2ac6b40b0c933b7197920b48f7bc0b8c160dbc7ecf3b0be5516b6fca8b,38cd13ef8da7663d5e2b,8,8,6,8,8,77.0
+poster,10,"Dario Argento, Filmpodium Zürich",artark,ArtArk,gpt-6.1-sol,8c620c2ac6b40b0c933b7197920b48f7bc0b8c160dbc7ecf3b0be5516b6fca8b,38cd13ef8da7663d5e2b,9,8,9,9,9,87.0
+poster,10,"Dario Argento, Filmpodium Zürich",gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,8c620c2ac6b40b0c933b7197920b48f7bc0b8c160dbc7ecf3b0be5516b6fca8b,38cd13ef8da7663d5e2b,9,7,9,9,8,82.5
+poster,10,"Dario Argento, Filmpodium Zürich",gpt-image-2,GPT-Image-2,gpt-6.1-sol,8c620c2ac6b40b0c933b7197920b48f7bc0b8c160dbc7ecf3b0be5516b6fca8b,38cd13ef8da7663d5e2b,8,6,8,8,8,74.0
+poster,10,"Dario Argento, Filmpodium Zürich",gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,8c620c2ac6b40b0c933b7197920b48f7bc0b8c160dbc7ecf3b0be5516b6fca8b,38cd13ef8da7663d5e2b,8,7,8,8,8,77.0
+poster,10,"Dario Argento, Filmpodium Zürich",nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,8c620c2ac6b40b0c933b7197920b48f7bc0b8c160dbc7ecf3b0be5516b6fca8b,38cd13ef8da7663d5e2b,8,7,8,9,8,79.0
+poster,10,"Dario Argento, Filmpodium Zürich",doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,8c620c2ac6b40b0c933b7197920b48f7bc0b8c160dbc7ecf3b0be5516b6fca8b,38cd13ef8da7663d5e2b,8,5,6,7,6,63.0
+poster,11,Elian Zeitel + Itakiry,reference,Award-winning works,gpt-6.1-sol,60eb341977367eb53d1697fdc6697983a19b8bfa1103210d29d3e6f1395b58ba,33c2d004f1246f591699,8,8,7,9,8,80.5
+poster,11,Elian Zeitel + Itakiry,artark,ArtArk,gpt-6.1-sol,60eb341977367eb53d1697fdc6697983a19b8bfa1103210d29d3e6f1395b58ba,33c2d004f1246f591699,8,7,8,8,9,78.5
+poster,11,Elian Zeitel + Itakiry,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,60eb341977367eb53d1697fdc6697983a19b8bfa1103210d29d3e6f1395b58ba,33c2d004f1246f591699,9,8,8,9,9,85.5
+poster,11,Elian Zeitel + Itakiry,gpt-image-2,GPT-Image-2,gpt-6.1-sol,60eb341977367eb53d1697fdc6697983a19b8bfa1103210d29d3e6f1395b58ba,33c2d004f1246f591699,8,7,8,8,8,77.0
+poster,11,Elian Zeitel + Itakiry,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,60eb341977367eb53d1697fdc6697983a19b8bfa1103210d29d3e6f1395b58ba,33c2d004f1246f591699,8,7,8,8,8,77.0
+poster,11,Elian Zeitel + Itakiry,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,60eb341977367eb53d1697fdc6697983a19b8bfa1103210d29d3e6f1395b58ba,33c2d004f1246f591699,8,7,8,8,8,77.0
+poster,11,Elian Zeitel + Itakiry,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,60eb341977367eb53d1697fdc6697983a19b8bfa1103210d29d3e6f1395b58ba,33c2d004f1246f591699,8,7,8,8,8,77.0
+poster,12,Amol K Patil: Many Kilometres – Several Words,reference,Award-winning works,gpt-6.1-sol,d5c38244b64ccaf363a5d511295f8b3a9647d9d5cfe966c46d50680b64ce8b49,7d61a7b5e4e8c445683a,8,8,8,9,8,82.0
+poster,12,Amol K Patil: Many Kilometres – Several Words,artark,ArtArk,gpt-6.1-sol,d5c38244b64ccaf363a5d511295f8b3a9647d9d5cfe966c46d50680b64ce8b49,7d61a7b5e4e8c445683a,8,7,8,8,8,77.0
+poster,12,Amol K Patil: Many Kilometres – Several Words,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,d5c38244b64ccaf363a5d511295f8b3a9647d9d5cfe966c46d50680b64ce8b49,7d61a7b5e4e8c445683a,8,6,8,8,8,74.0
+poster,12,Amol K Patil: Many Kilometres – Several Words,gpt-image-2,GPT-Image-2,gpt-6.1-sol,d5c38244b64ccaf363a5d511295f8b3a9647d9d5cfe966c46d50680b64ce8b49,7d61a7b5e4e8c445683a,8,6,9,8,9,77.0
+poster,12,Amol K Patil: Many Kilometres – Several Words,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,d5c38244b64ccaf363a5d511295f8b3a9647d9d5cfe966c46d50680b64ce8b49,7d61a7b5e4e8c445683a,8,7,9,8,9,80.0
+poster,12,Amol K Patil: Many Kilometres – Several Words,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,d5c38244b64ccaf363a5d511295f8b3a9647d9d5cfe966c46d50680b64ce8b49,7d61a7b5e4e8c445683a,8,7,8,8,8,77.0
+poster,12,Amol K Patil: Many Kilometres – Several Words,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,d5c38244b64ccaf363a5d511295f8b3a9647d9d5cfe966c46d50680b64ce8b49,7d61a7b5e4e8c445683a,7,6,6,8,7,67.5
+poster,13,Fumetto Comic Festival 2025,reference,Award-winning works,gpt-6.1-sol,20f5b76804d70c0e253c5eb61924b5ef291f5dd7a722bab5136af7edd7474a9d,15d5bfe9bc3b9e50379e,8,7,6,8,8,74.0
+poster,13,Fumetto Comic Festival 2025,artark,ArtArk,gpt-6.1-sol,20f5b76804d70c0e253c5eb61924b5ef291f5dd7a722bab5136af7edd7474a9d,15d5bfe9bc3b9e50379e,8,6,8,8,8,74.0
+poster,13,Fumetto Comic Festival 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,20f5b76804d70c0e253c5eb61924b5ef291f5dd7a722bab5136af7edd7474a9d,15d5bfe9bc3b9e50379e,8,6,8,8,8,74.0
+poster,13,Fumetto Comic Festival 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,20f5b76804d70c0e253c5eb61924b5ef291f5dd7a722bab5136af7edd7474a9d,15d5bfe9bc3b9e50379e,8,6,8,8,8,74.0
+poster,13,Fumetto Comic Festival 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,20f5b76804d70c0e253c5eb61924b5ef291f5dd7a722bab5136af7edd7474a9d,15d5bfe9bc3b9e50379e,8,6,8,8,8,74.0
+poster,13,Fumetto Comic Festival 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,20f5b76804d70c0e253c5eb61924b5ef291f5dd7a722bab5136af7edd7474a9d,15d5bfe9bc3b9e50379e,8,6,8,8,8,74.0
+poster,13,Fumetto Comic Festival 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,20f5b76804d70c0e253c5eb61924b5ef291f5dd7a722bab5136af7edd7474a9d,15d5bfe9bc3b9e50379e,8,6,7,8,8,72.5
+poster,14,Confoederatio,reference,Award-winning works,gpt-6.1-sol,2d989dc5d5a923726c40bfd879d81397d8c2fd58c932f1ae7250ed4cc3381ff8,7986ca18a6e9902c0059,8,8,7,8,8,78.5
+poster,14,Confoederatio,artark,ArtArk,gpt-6.1-sol,2d989dc5d5a923726c40bfd879d81397d8c2fd58c932f1ae7250ed4cc3381ff8,7986ca18a6e9902c0059,9,8,8,9,9,85.5
+poster,14,Confoederatio,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,2d989dc5d5a923726c40bfd879d81397d8c2fd58c932f1ae7250ed4cc3381ff8,7986ca18a6e9902c0059,8,7,8,8,9,78.5
+poster,14,Confoederatio,gpt-image-2,GPT-Image-2,gpt-6.1-sol,2d989dc5d5a923726c40bfd879d81397d8c2fd58c932f1ae7250ed4cc3381ff8,7986ca18a6e9902c0059,8,6,8,8,8,74.0
+poster,14,Confoederatio,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,2d989dc5d5a923726c40bfd879d81397d8c2fd58c932f1ae7250ed4cc3381ff8,7986ca18a6e9902c0059,8,6,8,8,8,74.0
+poster,14,Confoederatio,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,2d989dc5d5a923726c40bfd879d81397d8c2fd58c932f1ae7250ed4cc3381ff8,7986ca18a6e9902c0059,8,7,8,8,8,77.0
+poster,14,Confoederatio,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,2d989dc5d5a923726c40bfd879d81397d8c2fd58c932f1ae7250ed4cc3381ff8,7986ca18a6e9902c0059,8,6,8,8,8,74.0
+poster,15,30 Jahre Haus Schwarzenberg,reference,Award-winning works,gpt-6.1-sol,4cbff5eccc59cef90561c1b899feb9f970ee8238fdb5cced71e4c8fd8deb28fa,419e4f29f8bda7d578ad,8,9,8,9,8,85.0
+poster,15,30 Jahre Haus Schwarzenberg,artark,ArtArk,gpt-6.1-sol,4cbff5eccc59cef90561c1b899feb9f970ee8238fdb5cced71e4c8fd8deb28fa,419e4f29f8bda7d578ad,8,7,9,8,8,78.5
+poster,15,30 Jahre Haus Schwarzenberg,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,4cbff5eccc59cef90561c1b899feb9f970ee8238fdb5cced71e4c8fd8deb28fa,419e4f29f8bda7d578ad,8,7,8,8,8,77.0
+poster,15,30 Jahre Haus Schwarzenberg,gpt-image-2,GPT-Image-2,gpt-6.1-sol,4cbff5eccc59cef90561c1b899feb9f970ee8238fdb5cced71e4c8fd8deb28fa,419e4f29f8bda7d578ad,8,7,8,8,8,77.0
+poster,15,30 Jahre Haus Schwarzenberg,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,4cbff5eccc59cef90561c1b899feb9f970ee8238fdb5cced71e4c8fd8deb28fa,419e4f29f8bda7d578ad,8,6,8,8,8,74.0
+poster,15,30 Jahre Haus Schwarzenberg,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,4cbff5eccc59cef90561c1b899feb9f970ee8238fdb5cced71e4c8fd8deb28fa,419e4f29f8bda7d578ad,8,7,8,8,8,77.0
+poster,15,30 Jahre Haus Schwarzenberg,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,4cbff5eccc59cef90561c1b899feb9f970ee8238fdb5cced71e4c8fd8deb28fa,419e4f29f8bda7d578ad,8,7,8,8,8,77.0
+poster,16,Anna Fasshauer: Done!,reference,Award-winning works,gpt-6.1-sol,0083f042579b9a584801f1be9d5d9908ba761d1b4890b2550dc15158ed21243d,f4359cfed2025b32991d,8,8,7,8,8,78.5
+poster,16,Anna Fasshauer: Done!,artark,ArtArk,gpt-6.1-sol,0083f042579b9a584801f1be9d5d9908ba761d1b4890b2550dc15158ed21243d,f4359cfed2025b32991d,8,6,9,8,9,77.0
+poster,16,Anna Fasshauer: Done!,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,0083f042579b9a584801f1be9d5d9908ba761d1b4890b2550dc15158ed21243d,f4359cfed2025b32991d,8,7,9,8,9,80.0
+poster,16,Anna Fasshauer: Done!,gpt-image-2,GPT-Image-2,gpt-6.1-sol,0083f042579b9a584801f1be9d5d9908ba761d1b4890b2550dc15158ed21243d,f4359cfed2025b32991d,8,6,8,8,9,75.5
+poster,16,Anna Fasshauer: Done!,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,0083f042579b9a584801f1be9d5d9908ba761d1b4890b2550dc15158ed21243d,f4359cfed2025b32991d,8,6,9,8,9,77.0
+poster,16,Anna Fasshauer: Done!,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,0083f042579b9a584801f1be9d5d9908ba761d1b4890b2550dc15158ed21243d,f4359cfed2025b32991d,8,7,8,8,8,77.0
+poster,16,Anna Fasshauer: Done!,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,0083f042579b9a584801f1be9d5d9908ba761d1b4890b2550dc15158ed21243d,f4359cfed2025b32991d,8,6,8,8,8,74.0
+poster,17,CONFOEDERATIO,reference,Award-winning works,gpt-6.1-sol,3af2d559997450d5df43a3b95c3779f5e1b16ca7804073ce56c3b65df7cac9b5,8fb253cdb07b49018459,8,8,7,8,8,78.5
+poster,17,CONFOEDERATIO,artark,ArtArk,gpt-6.1-sol,3af2d559997450d5df43a3b95c3779f5e1b16ca7804073ce56c3b65df7cac9b5,8fb253cdb07b49018459,8,7,8,8,9,78.5
+poster,17,CONFOEDERATIO,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,3af2d559997450d5df43a3b95c3779f5e1b16ca7804073ce56c3b65df7cac9b5,8fb253cdb07b49018459,8,6,8,8,9,75.5
+poster,17,CONFOEDERATIO,gpt-image-2,GPT-Image-2,gpt-6.1-sol,3af2d559997450d5df43a3b95c3779f5e1b16ca7804073ce56c3b65df7cac9b5,8fb253cdb07b49018459,8,6,8,8,8,74.0
+poster,17,CONFOEDERATIO,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,3af2d559997450d5df43a3b95c3779f5e1b16ca7804073ce56c3b65df7cac9b5,8fb253cdb07b49018459,8,7,8,8,8,77.0
+poster,17,CONFOEDERATIO,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,3af2d559997450d5df43a3b95c3779f5e1b16ca7804073ce56c3b65df7cac9b5,8fb253cdb07b49018459,8,7,8,8,9,78.5
+poster,17,CONFOEDERATIO,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,3af2d559997450d5df43a3b95c3779f5e1b16ca7804073ce56c3b65df7cac9b5,8fb253cdb07b49018459,8,6,7,8,7,71.0
+poster,18,Absofuckinglutely,reference,Award-winning works,gpt-6.1-sol,9149835cddd9ac1832c77dd78d2986f05b447e2c2a3c8c6640fc8046f84e55a6,988e60dec9e5d14cc381,8,7,7,9,8,77.5
+poster,18,Absofuckinglutely,artark,ArtArk,gpt-6.1-sol,9149835cddd9ac1832c77dd78d2986f05b447e2c2a3c8c6640fc8046f84e55a6,988e60dec9e5d14cc381,9,8,9,8,9,85.0
+poster,18,Absofuckinglutely,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,9149835cddd9ac1832c77dd78d2986f05b447e2c2a3c8c6640fc8046f84e55a6,988e60dec9e5d14cc381,8,6,8,8,8,74.0
+poster,18,Absofuckinglutely,gpt-image-2,GPT-Image-2,gpt-6.1-sol,9149835cddd9ac1832c77dd78d2986f05b447e2c2a3c8c6640fc8046f84e55a6,988e60dec9e5d14cc381,8,6,8,8,8,74.0
+poster,18,Absofuckinglutely,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,9149835cddd9ac1832c77dd78d2986f05b447e2c2a3c8c6640fc8046f84e55a6,988e60dec9e5d14cc381,8,7,8,8,8,77.0
+poster,18,Absofuckinglutely,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,9149835cddd9ac1832c77dd78d2986f05b447e2c2a3c8c6640fc8046f84e55a6,988e60dec9e5d14cc381,8,6,8,8,8,74.0
+poster,18,Absofuckinglutely,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,9149835cddd9ac1832c77dd78d2986f05b447e2c2a3c8c6640fc8046f84e55a6,988e60dec9e5d14cc381,8,6,7,8,7,71.0
+poster,19,From Letter to Gesture,reference,Award-winning works,gpt-6.1-sol,ad864e8e995ee71723b2198ee9cba883a04945dd04f330c0d141c2cf3a0db23c,566a3731af036a06b63d,8,8,6,8,8,77.0
+poster,19,From Letter to Gesture,artark,ArtArk,gpt-6.1-sol,ad864e8e995ee71723b2198ee9cba883a04945dd04f330c0d141c2cf3a0db23c,566a3731af036a06b63d,9,8,9,9,9,87.0
+poster,19,From Letter to Gesture,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,ad864e8e995ee71723b2198ee9cba883a04945dd04f330c0d141c2cf3a0db23c,566a3731af036a06b63d,9,8,8,9,9,85.5
+poster,19,From Letter to Gesture,gpt-image-2,GPT-Image-2,gpt-6.1-sol,ad864e8e995ee71723b2198ee9cba883a04945dd04f330c0d141c2cf3a0db23c,566a3731af036a06b63d,9,7,8,8,8,79.0
+poster,19,From Letter to Gesture,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,ad864e8e995ee71723b2198ee9cba883a04945dd04f330c0d141c2cf3a0db23c,566a3731af036a06b63d,9,8,9,8,9,85.0
+poster,19,From Letter to Gesture,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,ad864e8e995ee71723b2198ee9cba883a04945dd04f330c0d141c2cf3a0db23c,566a3731af036a06b63d,8,7,7,8,7,74.0
+poster,19,From Letter to Gesture,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,ad864e8e995ee71723b2198ee9cba883a04945dd04f330c0d141c2cf3a0db23c,566a3731af036a06b63d,8,7,8,8,8,77.0
+poster,20,Die Würde aller Menschen ist unantastbar.,reference,Award-winning works,gpt-6.1-sol,cc78e52ce657d550d54dc0b3d42ef70dfaa6c7322d59085706c7eb88fd01eee0,98dfac221d338f3223f8,8,8,5,8,7,74.0
+poster,20,Die Würde aller Menschen ist unantastbar.,artark,ArtArk,gpt-6.1-sol,cc78e52ce657d550d54dc0b3d42ef70dfaa6c7322d59085706c7eb88fd01eee0,98dfac221d338f3223f8,8,7,8,8,8,77.0
+poster,20,Die Würde aller Menschen ist unantastbar.,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,cc78e52ce657d550d54dc0b3d42ef70dfaa6c7322d59085706c7eb88fd01eee0,98dfac221d338f3223f8,8,6,8,8,8,74.0
+poster,20,Die Würde aller Menschen ist unantastbar.,gpt-image-2,GPT-Image-2,gpt-6.1-sol,cc78e52ce657d550d54dc0b3d42ef70dfaa6c7322d59085706c7eb88fd01eee0,98dfac221d338f3223f8,8,6,9,8,8,75.5
+poster,20,Die Würde aller Menschen ist unantastbar.,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,cc78e52ce657d550d54dc0b3d42ef70dfaa6c7322d59085706c7eb88fd01eee0,98dfac221d338f3223f8,8,6,8,8,8,74.0
+poster,20,Die Würde aller Menschen ist unantastbar.,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,cc78e52ce657d550d54dc0b3d42ef70dfaa6c7322d59085706c7eb88fd01eee0,98dfac221d338f3223f8,8,6,8,8,8,74.0
+poster,20,Die Würde aller Menschen ist unantastbar.,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,cc78e52ce657d550d54dc0b3d42ef70dfaa6c7322d59085706c7eb88fd01eee0,98dfac221d338f3223f8,8,5,7,7,6,64.5
+poster,21,ECAL Open Day 2025,reference,Award-winning works,gpt-6.1-sol,f30d99c565264fabdef6012c618fef91db7ca616bbfb5d19c3e7d5121d417eb1,b7746ab9f10670be0148,8,8,8,8,9,81.5
+poster,21,ECAL Open Day 2025,artark,ArtArk,gpt-6.1-sol,f30d99c565264fabdef6012c618fef91db7ca616bbfb5d19c3e7d5121d417eb1,b7746ab9f10670be0148,8,7,8,8,9,78.5
+poster,21,ECAL Open Day 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,f30d99c565264fabdef6012c618fef91db7ca616bbfb5d19c3e7d5121d417eb1,b7746ab9f10670be0148,8,7,8,9,8,79.0
+poster,21,ECAL Open Day 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,f30d99c565264fabdef6012c618fef91db7ca616bbfb5d19c3e7d5121d417eb1,b7746ab9f10670be0148,8,6,8,8,8,74.0
+poster,21,ECAL Open Day 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,f30d99c565264fabdef6012c618fef91db7ca616bbfb5d19c3e7d5121d417eb1,b7746ab9f10670be0148,8,6,8,8,8,74.0
+poster,21,ECAL Open Day 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,f30d99c565264fabdef6012c618fef91db7ca616bbfb5d19c3e7d5121d417eb1,b7746ab9f10670be0148,8,7,8,8,8,77.0
+poster,21,ECAL Open Day 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,f30d99c565264fabdef6012c618fef91db7ca616bbfb5d19c3e7d5121d417eb1,b7746ab9f10670be0148,7,5,7,7,7,64.0
+poster,22,Die unendliche Geschichte,reference,Award-winning works,gpt-6.1-sol,c2058f060507bb9c759890d4e8289215757b84cd1fe5d6b3052dd37b1c8e8bc8,cb42cb818e5a131d9d75,9,8,8,9,8,84.0
+poster,22,Die unendliche Geschichte,artark,ArtArk,gpt-6.1-sol,c2058f060507bb9c759890d4e8289215757b84cd1fe5d6b3052dd37b1c8e8bc8,cb42cb818e5a131d9d75,9,7,8,9,8,81.0
+poster,22,Die unendliche Geschichte,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,c2058f060507bb9c759890d4e8289215757b84cd1fe5d6b3052dd37b1c8e8bc8,cb42cb818e5a131d9d75,8,6,8,8,8,74.0
+poster,22,Die unendliche Geschichte,gpt-image-2,GPT-Image-2,gpt-6.1-sol,c2058f060507bb9c759890d4e8289215757b84cd1fe5d6b3052dd37b1c8e8bc8,cb42cb818e5a131d9d75,8,6,8,8,8,74.0
+poster,22,Die unendliche Geschichte,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,c2058f060507bb9c759890d4e8289215757b84cd1fe5d6b3052dd37b1c8e8bc8,cb42cb818e5a131d9d75,8,6,8,8,8,74.0
+poster,22,Die unendliche Geschichte,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,c2058f060507bb9c759890d4e8289215757b84cd1fe5d6b3052dd37b1c8e8bc8,cb42cb818e5a131d9d75,8,6,8,8,8,74.0
+poster,22,Die unendliche Geschichte,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,c2058f060507bb9c759890d4e8289215757b84cd1fe5d6b3052dd37b1c8e8bc8,cb42cb818e5a131d9d75,8,5,8,8,7,69.5
+poster,23,Eat The Filthy Rich,reference,Award-winning works,gpt-6.1-sol,a0fd1466dd415236f30342fa050223ae52111f02645137751c24af1d1a37c34d,576d1ed715271145e579,8,7,6,8,8,74.0
+poster,23,Eat The Filthy Rich,artark,ArtArk,gpt-6.1-sol,a0fd1466dd415236f30342fa050223ae52111f02645137751c24af1d1a37c34d,576d1ed715271145e579,9,8,9,9,8,85.5
+poster,23,Eat The Filthy Rich,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,a0fd1466dd415236f30342fa050223ae52111f02645137751c24af1d1a37c34d,576d1ed715271145e579,9,7,9,8,8,80.5
+poster,23,Eat The Filthy Rich,gpt-image-2,GPT-Image-2,gpt-6.1-sol,a0fd1466dd415236f30342fa050223ae52111f02645137751c24af1d1a37c34d,576d1ed715271145e579,9,7,9,9,8,82.5
+poster,23,Eat The Filthy Rich,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,a0fd1466dd415236f30342fa050223ae52111f02645137751c24af1d1a37c34d,576d1ed715271145e579,9,7,9,8,8,80.5
+poster,23,Eat The Filthy Rich,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,a0fd1466dd415236f30342fa050223ae52111f02645137751c24af1d1a37c34d,576d1ed715271145e579,9,7,8,9,8,81.0
+poster,23,Eat The Filthy Rich,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,a0fd1466dd415236f30342fa050223ae52111f02645137751c24af1d1a37c34d,576d1ed715271145e579,9,7,8,8,8,79.0
+poster,24,cyan work 1990 – 2025,reference,Award-winning works,gpt-6.1-sol,d27a0d103ff7dec8795c456c9afa3db5ebb28e2d4da760db6a4b766dbff2b1ea,901f3ef47f7cc169ffd1,8,8,6,9,8,79.0
+poster,24,cyan work 1990 – 2025,artark,ArtArk,gpt-6.1-sol,d27a0d103ff7dec8795c456c9afa3db5ebb28e2d4da760db6a4b766dbff2b1ea,901f3ef47f7cc169ffd1,8,7,8,9,8,79.0
+poster,24,cyan work 1990 – 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,d27a0d103ff7dec8795c456c9afa3db5ebb28e2d4da760db6a4b766dbff2b1ea,901f3ef47f7cc169ffd1,8,7,8,8,8,77.0
+poster,24,cyan work 1990 – 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,d27a0d103ff7dec8795c456c9afa3db5ebb28e2d4da760db6a4b766dbff2b1ea,901f3ef47f7cc169ffd1,8,6,8,8,8,74.0
+poster,24,cyan work 1990 – 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,d27a0d103ff7dec8795c456c9afa3db5ebb28e2d4da760db6a4b766dbff2b1ea,901f3ef47f7cc169ffd1,8,6,8,8,8,74.0
+poster,24,cyan work 1990 – 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,d27a0d103ff7dec8795c456c9afa3db5ebb28e2d4da760db6a4b766dbff2b1ea,901f3ef47f7cc169ffd1,8,6,8,8,8,74.0
+poster,24,cyan work 1990 – 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,d27a0d103ff7dec8795c456c9afa3db5ebb28e2d4da760db6a4b766dbff2b1ea,901f3ef47f7cc169ffd1,7,6,8,8,8,72.0
+poster,25,ECAL Diplomas 2025,reference,Award-winning works,gpt-6.1-sol,a19a8eb44fcf148df7c9805357999290f158d5ee3eb1a6dabf62fa9c75484db7,5960e773de9a68d53679,8,8,7,8,9,80.0
+poster,25,ECAL Diplomas 2025,artark,ArtArk,gpt-6.1-sol,a19a8eb44fcf148df7c9805357999290f158d5ee3eb1a6dabf62fa9c75484db7,5960e773de9a68d53679,7,6,8,8,8,72.0
+poster,25,ECAL Diplomas 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,a19a8eb44fcf148df7c9805357999290f158d5ee3eb1a6dabf62fa9c75484db7,5960e773de9a68d53679,8,7,8,8,9,78.5
+poster,25,ECAL Diplomas 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,a19a8eb44fcf148df7c9805357999290f158d5ee3eb1a6dabf62fa9c75484db7,5960e773de9a68d53679,8,7,8,8,8,77.0
+poster,25,ECAL Diplomas 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,a19a8eb44fcf148df7c9805357999290f158d5ee3eb1a6dabf62fa9c75484db7,5960e773de9a68d53679,8,6,8,8,8,74.0
+poster,25,ECAL Diplomas 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,a19a8eb44fcf148df7c9805357999290f158d5ee3eb1a6dabf62fa9c75484db7,5960e773de9a68d53679,7,5,6,7,6,61.0
+poster,25,ECAL Diplomas 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,a19a8eb44fcf148df7c9805357999290f158d5ee3eb1a6dabf62fa9c75484db7,5960e773de9a68d53679,7,6,7,7,7,67.0
+poster,26,Der kleine Vampir,reference,Award-winning works,gpt-6.1-sol,0a2d6b82ba6d131a9c98fd08d27149046ca1f2424f32843e5e4f195cc6d0b7d8,979c44e4faaf75b33398,9,8,8,9,9,85.5
+poster,26,Der kleine Vampir,artark,ArtArk,gpt-6.1-sol,0a2d6b82ba6d131a9c98fd08d27149046ca1f2424f32843e5e4f195cc6d0b7d8,979c44e4faaf75b33398,8,6,9,8,8,75.5
+poster,26,Der kleine Vampir,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,0a2d6b82ba6d131a9c98fd08d27149046ca1f2424f32843e5e4f195cc6d0b7d8,979c44e4faaf75b33398,8,6,8,8,8,74.0
+poster,26,Der kleine Vampir,gpt-image-2,GPT-Image-2,gpt-6.1-sol,0a2d6b82ba6d131a9c98fd08d27149046ca1f2424f32843e5e4f195cc6d0b7d8,979c44e4faaf75b33398,8,6,8,8,8,74.0
+poster,26,Der kleine Vampir,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,0a2d6b82ba6d131a9c98fd08d27149046ca1f2424f32843e5e4f195cc6d0b7d8,979c44e4faaf75b33398,8,6,8,8,8,74.0
+poster,26,Der kleine Vampir,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,0a2d6b82ba6d131a9c98fd08d27149046ca1f2424f32843e5e4f195cc6d0b7d8,979c44e4faaf75b33398,8,6,8,8,8,74.0
+poster,26,Der kleine Vampir,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,0a2d6b82ba6d131a9c98fd08d27149046ca1f2424f32843e5e4f195cc6d0b7d8,979c44e4faaf75b33398,8,6,8,8,8,74.0
+poster,27,Fotoatelier Wolgensinger – Mit vier Augen,reference,Award-winning works,gpt-6.1-sol,2644df23312500160d0b2f7ca2f09f0b32918cf5633c48039d955d4f33153650,29bce15adf2833e3a96f,8,7,7,8,8,75.5
+poster,27,Fotoatelier Wolgensinger – Mit vier Augen,artark,ArtArk,gpt-6.1-sol,2644df23312500160d0b2f7ca2f09f0b32918cf5633c48039d955d4f33153650,29bce15adf2833e3a96f,8,7,8,8,9,78.5
+poster,27,Fotoatelier Wolgensinger – Mit vier Augen,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,2644df23312500160d0b2f7ca2f09f0b32918cf5633c48039d955d4f33153650,29bce15adf2833e3a96f,8,6,8,8,8,74.0
+poster,27,Fotoatelier Wolgensinger – Mit vier Augen,gpt-image-2,GPT-Image-2,gpt-6.1-sol,2644df23312500160d0b2f7ca2f09f0b32918cf5633c48039d955d4f33153650,29bce15adf2833e3a96f,8,5,8,7,8,69.0
+poster,27,Fotoatelier Wolgensinger – Mit vier Augen,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,2644df23312500160d0b2f7ca2f09f0b32918cf5633c48039d955d4f33153650,29bce15adf2833e3a96f,8,6,9,8,9,77.0
+poster,27,Fotoatelier Wolgensinger – Mit vier Augen,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,2644df23312500160d0b2f7ca2f09f0b32918cf5633c48039d955d4f33153650,29bce15adf2833e3a96f,8,6,7,8,8,72.5
+poster,27,Fotoatelier Wolgensinger – Mit vier Augen,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,2644df23312500160d0b2f7ca2f09f0b32918cf5633c48039d955d4f33153650,29bce15adf2833e3a96f,7,6,8,8,7,70.5
+poster,28,Bezahlt wird nicht,reference,Award-winning works,gpt-6.1-sol,591027736259dc77876b837f83e2a944f22cdae60bf08e241df2bd78391087ae,9f22c72f7685f5e605ed,8,8,8,9,8,82.0
+poster,28,Bezahlt wird nicht,artark,ArtArk,gpt-6.1-sol,591027736259dc77876b837f83e2a944f22cdae60bf08e241df2bd78391087ae,9f22c72f7685f5e605ed,9,9,8,9,9,88.5
+poster,28,Bezahlt wird nicht,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,591027736259dc77876b837f83e2a944f22cdae60bf08e241df2bd78391087ae,9f22c72f7685f5e605ed,8,7,8,8,8,77.0
+poster,28,Bezahlt wird nicht,gpt-image-2,GPT-Image-2,gpt-6.1-sol,591027736259dc77876b837f83e2a944f22cdae60bf08e241df2bd78391087ae,9f22c72f7685f5e605ed,9,8,8,9,8,84.0
+poster,28,Bezahlt wird nicht,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,591027736259dc77876b837f83e2a944f22cdae60bf08e241df2bd78391087ae,9f22c72f7685f5e605ed,8,6,9,8,9,77.0
+poster,28,Bezahlt wird nicht,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,591027736259dc77876b837f83e2a944f22cdae60bf08e241df2bd78391087ae,9f22c72f7685f5e605ed,8,8,8,8,8,80.0
+poster,28,Bezahlt wird nicht,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,591027736259dc77876b837f83e2a944f22cdae60bf08e241df2bd78391087ae,9f22c72f7685f5e605ed,8,7,7,8,7,74.0
+poster,29,100 Jahre Neues Frankfurt,reference,Award-winning works,gpt-6.1-sol,afb61257815f786408d70de9e454ea93986a7d1e4cc3420b93e83f8f5a272cbc,715ef31e3e2b0060a9e3,8,7,8,8,8,77.0
+poster,29,100 Jahre Neues Frankfurt,artark,ArtArk,gpt-6.1-sol,afb61257815f786408d70de9e454ea93986a7d1e4cc3420b93e83f8f5a272cbc,715ef31e3e2b0060a9e3,9,8,9,9,9,87.0
+poster,29,100 Jahre Neues Frankfurt,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,afb61257815f786408d70de9e454ea93986a7d1e4cc3420b93e83f8f5a272cbc,715ef31e3e2b0060a9e3,8,7,9,8,8,78.5
+poster,29,100 Jahre Neues Frankfurt,gpt-image-2,GPT-Image-2,gpt-6.1-sol,afb61257815f786408d70de9e454ea93986a7d1e4cc3420b93e83f8f5a272cbc,715ef31e3e2b0060a9e3,8,6,7,8,8,72.5
+poster,29,100 Jahre Neues Frankfurt,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,afb61257815f786408d70de9e454ea93986a7d1e4cc3420b93e83f8f5a272cbc,715ef31e3e2b0060a9e3,8,6,9,8,9,77.0
+poster,29,100 Jahre Neues Frankfurt,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,afb61257815f786408d70de9e454ea93986a7d1e4cc3420b93e83f8f5a272cbc,715ef31e3e2b0060a9e3,8,7,8,8,8,77.0
+poster,29,100 Jahre Neues Frankfurt,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,afb61257815f786408d70de9e454ea93986a7d1e4cc3420b93e83f8f5a272cbc,715ef31e3e2b0060a9e3,8,7,7,8,7,74.0
+poster,30,FÜR ALLE (statt wenige),reference,Award-winning works,gpt-6.1-sol,f5dc395b225d2e30285e7843482b436f2ea23976869199aeac180dbd08e052ca,8e7467e9325194b64ea4,8,8,7,8,8,78.5
+poster,30,FÜR ALLE (statt wenige),artark,ArtArk,gpt-6.1-sol,f5dc395b225d2e30285e7843482b436f2ea23976869199aeac180dbd08e052ca,8e7467e9325194b64ea4,8,7,8,8,8,77.0
+poster,30,FÜR ALLE (statt wenige),gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,f5dc395b225d2e30285e7843482b436f2ea23976869199aeac180dbd08e052ca,8e7467e9325194b64ea4,8,6,8,8,8,74.0
+poster,30,FÜR ALLE (statt wenige),gpt-image-2,GPT-Image-2,gpt-6.1-sol,f5dc395b225d2e30285e7843482b436f2ea23976869199aeac180dbd08e052ca,8e7467e9325194b64ea4,8,6,8,8,8,74.0
+poster,30,FÜR ALLE (statt wenige),gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,f5dc395b225d2e30285e7843482b436f2ea23976869199aeac180dbd08e052ca,8e7467e9325194b64ea4,8,6,8,8,8,74.0
+poster,30,FÜR ALLE (statt wenige),nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,f5dc395b225d2e30285e7843482b436f2ea23976869199aeac180dbd08e052ca,8e7467e9325194b64ea4,8,6,8,8,8,74.0
+poster,30,FÜR ALLE (statt wenige),doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,f5dc395b225d2e30285e7843482b436f2ea23976869199aeac180dbd08e052ca,8e7467e9325194b64ea4,8,5,8,7,8,69.0
+poster,31,Bachelorprojekt „NEW FACES“,reference,Award-winning works,gpt-6.1-sol,462b39cf094f4fd367ddbae40cf9f2461330b87dd48dc6854a383a86aa0ed12c,414835eb96f1e0318ed3,8,7,7,8,8,75.5
+poster,31,Bachelorprojekt „NEW FACES“,artark,ArtArk,gpt-6.1-sol,462b39cf094f4fd367ddbae40cf9f2461330b87dd48dc6854a383a86aa0ed12c,414835eb96f1e0318ed3,8,7,8,8,8,77.0
+poster,31,Bachelorprojekt „NEW FACES“,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,462b39cf094f4fd367ddbae40cf9f2461330b87dd48dc6854a383a86aa0ed12c,414835eb96f1e0318ed3,8,7,8,8,9,78.5
+poster,31,Bachelorprojekt „NEW FACES“,gpt-image-2,GPT-Image-2,gpt-6.1-sol,462b39cf094f4fd367ddbae40cf9f2461330b87dd48dc6854a383a86aa0ed12c,414835eb96f1e0318ed3,9,8,8,9,9,85.5
+poster,31,Bachelorprojekt „NEW FACES“,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,462b39cf094f4fd367ddbae40cf9f2461330b87dd48dc6854a383a86aa0ed12c,414835eb96f1e0318ed3,9,8,9,9,9,87.0
+poster,31,Bachelorprojekt „NEW FACES“,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,462b39cf094f4fd367ddbae40cf9f2461330b87dd48dc6854a383a86aa0ed12c,414835eb96f1e0318ed3,8,7,8,8,9,78.5
+poster,31,Bachelorprojekt „NEW FACES“,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,462b39cf094f4fd367ddbae40cf9f2461330b87dd48dc6854a383a86aa0ed12c,414835eb96f1e0318ed3,8,7,8,8,8,77.0
+poster,32,DEGROWTH,reference,Award-winning works,gpt-6.1-sol,424d7d876c349aa012474c62d96764d69ff07b94a9ee1d9db14e8fddf971f474,22d054507295beeb8df9,8,8,6,8,8,77.0
+poster,32,DEGROWTH,artark,ArtArk,gpt-6.1-sol,424d7d876c349aa012474c62d96764d69ff07b94a9ee1d9db14e8fddf971f474,22d054507295beeb8df9,8,7,8,8,9,78.5
+poster,32,DEGROWTH,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,424d7d876c349aa012474c62d96764d69ff07b94a9ee1d9db14e8fddf971f474,22d054507295beeb8df9,8,6,8,8,8,74.0
+poster,32,DEGROWTH,gpt-image-2,GPT-Image-2,gpt-6.1-sol,424d7d876c349aa012474c62d96764d69ff07b94a9ee1d9db14e8fddf971f474,22d054507295beeb8df9,8,6,8,8,8,74.0
+poster,32,DEGROWTH,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,424d7d876c349aa012474c62d96764d69ff07b94a9ee1d9db14e8fddf971f474,22d054507295beeb8df9,8,6,8,8,8,74.0
+poster,32,DEGROWTH,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,424d7d876c349aa012474c62d96764d69ff07b94a9ee1d9db14e8fddf971f474,22d054507295beeb8df9,8,7,8,8,8,77.0
+poster,32,DEGROWTH,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,424d7d876c349aa012474c62d96764d69ff07b94a9ee1d9db14e8fddf971f474,22d054507295beeb8df9,9,8,8,8,8,82.0
+poster,33,7e Tourne-Films Festival Lausanne,reference,Award-winning works,gpt-6.1-sol,98eea87ca25d20fb1fcbfa96894e82289cab07a1d155b0a98475c155b7a752c0,6db371a01e5ef049dc36,8,8,7,8,8,78.5
+poster,33,7e Tourne-Films Festival Lausanne,artark,ArtArk,gpt-6.1-sol,98eea87ca25d20fb1fcbfa96894e82289cab07a1d155b0a98475c155b7a752c0,6db371a01e5ef049dc36,8,6,9,8,8,75.5
+poster,33,7e Tourne-Films Festival Lausanne,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,98eea87ca25d20fb1fcbfa96894e82289cab07a1d155b0a98475c155b7a752c0,6db371a01e5ef049dc36,8,6,8,8,8,74.0
+poster,33,7e Tourne-Films Festival Lausanne,gpt-image-2,GPT-Image-2,gpt-6.1-sol,98eea87ca25d20fb1fcbfa96894e82289cab07a1d155b0a98475c155b7a752c0,6db371a01e5ef049dc36,8,6,8,8,8,74.0
+poster,33,7e Tourne-Films Festival Lausanne,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,98eea87ca25d20fb1fcbfa96894e82289cab07a1d155b0a98475c155b7a752c0,6db371a01e5ef049dc36,8,6,8,8,8,74.0
+poster,33,7e Tourne-Films Festival Lausanne,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,98eea87ca25d20fb1fcbfa96894e82289cab07a1d155b0a98475c155b7a752c0,6db371a01e5ef049dc36,8,7,8,8,8,77.0
+poster,33,7e Tourne-Films Festival Lausanne,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,98eea87ca25d20fb1fcbfa96894e82289cab07a1d155b0a98475c155b7a752c0,6db371a01e5ef049dc36,8,6,8,8,7,72.5
+poster,34,BEYOND,reference,Award-winning works,gpt-6.1-sol,48febfe306265480c5d5b399b178ca53b029c09958ebdd93748325f5cb2cb5eb,92a825a67f27f0a98922,8,8,7,8,8,78.5
+poster,34,BEYOND,artark,ArtArk,gpt-6.1-sol,48febfe306265480c5d5b399b178ca53b029c09958ebdd93748325f5cb2cb5eb,92a825a67f27f0a98922,8,7,9,8,9,80.0
+poster,34,BEYOND,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,48febfe306265480c5d5b399b178ca53b029c09958ebdd93748325f5cb2cb5eb,92a825a67f27f0a98922,8,7,8,8,8,77.0
+poster,34,BEYOND,gpt-image-2,GPT-Image-2,gpt-6.1-sol,48febfe306265480c5d5b399b178ca53b029c09958ebdd93748325f5cb2cb5eb,92a825a67f27f0a98922,8,7,8,8,8,77.0
+poster,34,BEYOND,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,48febfe306265480c5d5b399b178ca53b029c09958ebdd93748325f5cb2cb5eb,92a825a67f27f0a98922,8,6,8,8,8,74.0
+poster,34,BEYOND,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,48febfe306265480c5d5b399b178ca53b029c09958ebdd93748325f5cb2cb5eb,92a825a67f27f0a98922,8,7,8,8,8,77.0
+poster,34,BEYOND,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,48febfe306265480c5d5b399b178ca53b029c09958ebdd93748325f5cb2cb5eb,92a825a67f27f0a98922,8,6,8,8,7,72.5
+poster,35,Fünf Freunde,reference,Award-winning works,gpt-6.1-sol,b632cbaf3455deecb6408ea153e2f0b14b463485f83f205b42349d94e5348dec,b86580c4c6d7f4246057,8,8,7,8,8,78.5
+poster,35,Fünf Freunde,artark,ArtArk,gpt-6.1-sol,b632cbaf3455deecb6408ea153e2f0b14b463485f83f205b42349d94e5348dec,b86580c4c6d7f4246057,9,8,9,9,8,85.5
+poster,35,Fünf Freunde,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,b632cbaf3455deecb6408ea153e2f0b14b463485f83f205b42349d94e5348dec,b86580c4c6d7f4246057,8,6,8,8,8,74.0
+poster,35,Fünf Freunde,gpt-image-2,GPT-Image-2,gpt-6.1-sol,b632cbaf3455deecb6408ea153e2f0b14b463485f83f205b42349d94e5348dec,b86580c4c6d7f4246057,8,6,8,8,8,74.0
+poster,35,Fünf Freunde,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,b632cbaf3455deecb6408ea153e2f0b14b463485f83f205b42349d94e5348dec,b86580c4c6d7f4246057,8,7,8,8,8,77.0
+poster,35,Fünf Freunde,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,b632cbaf3455deecb6408ea153e2f0b14b463485f83f205b42349d94e5348dec,b86580c4c6d7f4246057,8,7,8,8,8,77.0
+poster,35,Fünf Freunde,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,b632cbaf3455deecb6408ea153e2f0b14b463485f83f205b42349d94e5348dec,b86580c4c6d7f4246057,7,6,7,7,7,67.0
+poster,36,Danke Andreas,reference,Award-winning works,gpt-6.1-sol,2c82cb56d77f62d7213617399f0fed8663ed88a4cff0c758160a8c46b640b2a3,54071224e911c4a0d12a,8,8,6,8,8,77.0
+poster,36,Danke Andreas,artark,ArtArk,gpt-6.1-sol,2c82cb56d77f62d7213617399f0fed8663ed88a4cff0c758160a8c46b640b2a3,54071224e911c4a0d12a,8,6,9,8,8,75.5
+poster,36,Danke Andreas,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,2c82cb56d77f62d7213617399f0fed8663ed88a4cff0c758160a8c46b640b2a3,54071224e911c4a0d12a,8,6,9,8,8,75.5
+poster,36,Danke Andreas,gpt-image-2,GPT-Image-2,gpt-6.1-sol,2c82cb56d77f62d7213617399f0fed8663ed88a4cff0c758160a8c46b640b2a3,54071224e911c4a0d12a,7,5,8,8,8,69.0
+poster,36,Danke Andreas,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,2c82cb56d77f62d7213617399f0fed8663ed88a4cff0c758160a8c46b640b2a3,54071224e911c4a0d12a,7,5,9,8,8,70.5
+poster,36,Danke Andreas,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,2c82cb56d77f62d7213617399f0fed8663ed88a4cff0c758160a8c46b640b2a3,54071224e911c4a0d12a,8,7,8,8,8,77.0
+poster,36,Danke Andreas,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,2c82cb56d77f62d7213617399f0fed8663ed88a4cff0c758160a8c46b640b2a3,54071224e911c4a0d12a,7,6,8,8,7,70.5
+poster,37,Double U,reference,Award-winning works,gpt-6.1-sol,ae1ed4b60253e92cae282a2f41f636201234c16517507b3d8df9f9e86f565b9e,9ae75f02c881fa2f9450,8,8,6,8,8,77.0
+poster,37,Double U,artark,ArtArk,gpt-6.1-sol,ae1ed4b60253e92cae282a2f41f636201234c16517507b3d8df9f9e86f565b9e,9ae75f02c881fa2f9450,8,7,8,8,8,77.0
+poster,37,Double U,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,ae1ed4b60253e92cae282a2f41f636201234c16517507b3d8df9f9e86f565b9e,9ae75f02c881fa2f9450,8,7,8,8,8,77.0
+poster,37,Double U,gpt-image-2,GPT-Image-2,gpt-6.1-sol,ae1ed4b60253e92cae282a2f41f636201234c16517507b3d8df9f9e86f565b9e,9ae75f02c881fa2f9450,8,7,8,8,8,77.0
+poster,37,Double U,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,ae1ed4b60253e92cae282a2f41f636201234c16517507b3d8df9f9e86f565b9e,9ae75f02c881fa2f9450,8,7,8,8,8,77.0
+poster,37,Double U,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,ae1ed4b60253e92cae282a2f41f636201234c16517507b3d8df9f9e86f565b9e,9ae75f02c881fa2f9450,8,7,8,8,8,77.0
+poster,37,Double U,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,ae1ed4b60253e92cae282a2f41f636201234c16517507b3d8df9f9e86f565b9e,9ae75f02c881fa2f9450,8,7,8,8,8,77.0
+poster,38,44e AMR Jazz Festival,reference,Award-winning works,gpt-6.1-sol,9fdad3599cd963db5d5f5005b7624ac1b6f5d09ee92ce74f17893012cb859a8a,e241413076367ca0cf41,8,8,6,8,8,77.0
+poster,38,44e AMR Jazz Festival,artark,ArtArk,gpt-6.1-sol,9fdad3599cd963db5d5f5005b7624ac1b6f5d09ee92ce74f17893012cb859a8a,e241413076367ca0cf41,8,7,8,9,8,79.0
+poster,38,44e AMR Jazz Festival,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,9fdad3599cd963db5d5f5005b7624ac1b6f5d09ee92ce74f17893012cb859a8a,e241413076367ca0cf41,8,6,8,8,8,74.0
+poster,38,44e AMR Jazz Festival,gpt-image-2,GPT-Image-2,gpt-6.1-sol,9fdad3599cd963db5d5f5005b7624ac1b6f5d09ee92ce74f17893012cb859a8a,e241413076367ca0cf41,8,6,8,8,8,74.0
+poster,38,44e AMR Jazz Festival,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,9fdad3599cd963db5d5f5005b7624ac1b6f5d09ee92ce74f17893012cb859a8a,e241413076367ca0cf41,8,6,9,8,8,75.5
+poster,38,44e AMR Jazz Festival,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,9fdad3599cd963db5d5f5005b7624ac1b6f5d09ee92ce74f17893012cb859a8a,e241413076367ca0cf41,8,6,8,8,7,72.5
+poster,38,44e AMR Jazz Festival,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,9fdad3599cd963db5d5f5005b7624ac1b6f5d09ee92ce74f17893012cb859a8a,e241413076367ca0cf41,8,6,7,8,7,71.0
+poster,39,Der Sommer in Stuttgart 2025,reference,Award-winning works,gpt-6.1-sol,ad80a2e4ac0b89b145a5f359f8fc1cbb449a391bf41a4196e228ef56494a6b2f,e917be7ddd8f7c8da123,8,7,8,8,8,77.0
+poster,39,Der Sommer in Stuttgart 2025,artark,ArtArk,gpt-6.1-sol,ad80a2e4ac0b89b145a5f359f8fc1cbb449a391bf41a4196e228ef56494a6b2f,e917be7ddd8f7c8da123,8,7,8,9,8,79.0
+poster,39,Der Sommer in Stuttgart 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,ad80a2e4ac0b89b145a5f359f8fc1cbb449a391bf41a4196e228ef56494a6b2f,e917be7ddd8f7c8da123,8,7,8,8,8,77.0
+poster,39,Der Sommer in Stuttgart 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,ad80a2e4ac0b89b145a5f359f8fc1cbb449a391bf41a4196e228ef56494a6b2f,e917be7ddd8f7c8da123,8,6,8,8,8,74.0
+poster,39,Der Sommer in Stuttgart 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,ad80a2e4ac0b89b145a5f359f8fc1cbb449a391bf41a4196e228ef56494a6b2f,e917be7ddd8f7c8da123,8,6,8,8,8,74.0
+poster,39,Der Sommer in Stuttgart 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,ad80a2e4ac0b89b145a5f359f8fc1cbb449a391bf41a4196e228ef56494a6b2f,e917be7ddd8f7c8da123,8,6,7,8,7,71.0
+poster,39,Der Sommer in Stuttgart 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,ad80a2e4ac0b89b145a5f359f8fc1cbb449a391bf41a4196e228ef56494a6b2f,e917be7ddd8f7c8da123,8,7,8,8,8,77.0
+poster,40,Der Liebhaber – Theater Basel,reference,Award-winning works,gpt-6.1-sol,1cd77565e438dc4be7608003cd6bcd374a194ebb73238b4f7b8cf03973a59317,7baec3812aaa6a7ffd46,8,6,7,8,8,72.5
+poster,40,Der Liebhaber – Theater Basel,artark,ArtArk,gpt-6.1-sol,1cd77565e438dc4be7608003cd6bcd374a194ebb73238b4f7b8cf03973a59317,7baec3812aaa6a7ffd46,8,7,8,9,8,79.0
+poster,40,Der Liebhaber – Theater Basel,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,1cd77565e438dc4be7608003cd6bcd374a194ebb73238b4f7b8cf03973a59317,7baec3812aaa6a7ffd46,8,6,8,8,8,74.0
+poster,40,Der Liebhaber – Theater Basel,gpt-image-2,GPT-Image-2,gpt-6.1-sol,1cd77565e438dc4be7608003cd6bcd374a194ebb73238b4f7b8cf03973a59317,7baec3812aaa6a7ffd46,8,6,8,8,6,71.0
+poster,40,Der Liebhaber – Theater Basel,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,1cd77565e438dc4be7608003cd6bcd374a194ebb73238b4f7b8cf03973a59317,7baec3812aaa6a7ffd46,8,6,8,8,8,74.0
+poster,40,Der Liebhaber – Theater Basel,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,1cd77565e438dc4be7608003cd6bcd374a194ebb73238b4f7b8cf03973a59317,7baec3812aaa6a7ffd46,8,6,8,8,8,74.0
+poster,40,Der Liebhaber – Theater Basel,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,1cd77565e438dc4be7608003cd6bcd374a194ebb73238b4f7b8cf03973a59317,7baec3812aaa6a7ffd46,7,5,8,8,7,67.5
+poster,41,Fachreferat von Digitec Galaxus „Fast alles für fast jede*n“,reference,Award-winning works,gpt-6.1-sol,e8f5eda78785fc1ec2fcdf687dd657287645811ab993c63ce2417a099da0a21a,b9b9abca43167849b6d2,8,8,7,9,8,80.5
+poster,41,Fachreferat von Digitec Galaxus „Fast alles für fast jede*n“,artark,ArtArk,gpt-6.1-sol,e8f5eda78785fc1ec2fcdf687dd657287645811ab993c63ce2417a099da0a21a,b9b9abca43167849b6d2,8,7,8,8,8,77.0
+poster,41,Fachreferat von Digitec Galaxus „Fast alles für fast jede*n“,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,e8f5eda78785fc1ec2fcdf687dd657287645811ab993c63ce2417a099da0a21a,b9b9abca43167849b6d2,8,6,8,8,8,74.0
+poster,41,Fachreferat von Digitec Galaxus „Fast alles für fast jede*n“,gpt-image-2,GPT-Image-2,gpt-6.1-sol,e8f5eda78785fc1ec2fcdf687dd657287645811ab993c63ce2417a099da0a21a,b9b9abca43167849b6d2,8,6,8,8,8,74.0
+poster,41,Fachreferat von Digitec Galaxus „Fast alles für fast jede*n“,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,e8f5eda78785fc1ec2fcdf687dd657287645811ab993c63ce2417a099da0a21a,b9b9abca43167849b6d2,8,6,8,8,8,74.0
+poster,41,Fachreferat von Digitec Galaxus „Fast alles für fast jede*n“,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,e8f5eda78785fc1ec2fcdf687dd657287645811ab993c63ce2417a099da0a21a,b9b9abca43167849b6d2,7,6,8,8,8,72.0
+poster,41,Fachreferat von Digitec Galaxus „Fast alles für fast jede*n“,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,e8f5eda78785fc1ec2fcdf687dd657287645811ab993c63ce2417a099da0a21a,b9b9abca43167849b6d2,7,5,7,7,7,64.0
+poster,42,100 Beste Plagiate – Geschichte kopiert sich,reference,Award-winning works,gpt-6.1-sol,cb5993b84702b1ae846b54a3b7a2f52fa41f45ed540a53c4909a1da70e0af6dc,587a71979dc74d4491d3,8,8,7,8,8,78.5
+poster,42,100 Beste Plagiate – Geschichte kopiert sich,artark,ArtArk,gpt-6.1-sol,cb5993b84702b1ae846b54a3b7a2f52fa41f45ed540a53c4909a1da70e0af6dc,587a71979dc74d4491d3,9,8,9,8,8,83.5
+poster,42,100 Beste Plagiate – Geschichte kopiert sich,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,cb5993b84702b1ae846b54a3b7a2f52fa41f45ed540a53c4909a1da70e0af6dc,587a71979dc74d4491d3,9,7,9,8,9,82.0
+poster,42,100 Beste Plagiate – Geschichte kopiert sich,gpt-image-2,GPT-Image-2,gpt-6.1-sol,cb5993b84702b1ae846b54a3b7a2f52fa41f45ed540a53c4909a1da70e0af6dc,587a71979dc74d4491d3,9,8,8,9,9,85.5
+poster,42,100 Beste Plagiate – Geschichte kopiert sich,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,cb5993b84702b1ae846b54a3b7a2f52fa41f45ed540a53c4909a1da70e0af6dc,587a71979dc74d4491d3,8,6,9,8,8,75.5
+poster,42,100 Beste Plagiate – Geschichte kopiert sich,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,cb5993b84702b1ae846b54a3b7a2f52fa41f45ed540a53c4909a1da70e0af6dc,587a71979dc74d4491d3,8,6,8,8,8,74.0
+poster,42,100 Beste Plagiate – Geschichte kopiert sich,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,cb5993b84702b1ae846b54a3b7a2f52fa41f45ed540a53c4909a1da70e0af6dc,587a71979dc74d4491d3,8,6,7,8,7,71.0
+poster,43,Mut zur Wut,reference,Award-winning works,gpt-6.1-sol,9bd6e42926fd75e789b39c63186b1e19f89e2d966449d8ad4aa55afbcbd40862,7a57b622e92a0a97829d,7,7,5,8,7,69.0
+poster,43,Mut zur Wut,artark,ArtArk,gpt-6.1-sol,9bd6e42926fd75e789b39c63186b1e19f89e2d966449d8ad4aa55afbcbd40862,7a57b622e92a0a97829d,9,7,9,9,9,84.0
+poster,43,Mut zur Wut,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,9bd6e42926fd75e789b39c63186b1e19f89e2d966449d8ad4aa55afbcbd40862,7a57b622e92a0a97829d,8,6,8,8,8,74.0
+poster,43,Mut zur Wut,gpt-image-2,GPT-Image-2,gpt-6.1-sol,9bd6e42926fd75e789b39c63186b1e19f89e2d966449d8ad4aa55afbcbd40862,7a57b622e92a0a97829d,8,6,8,8,8,74.0
+poster,43,Mut zur Wut,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,9bd6e42926fd75e789b39c63186b1e19f89e2d966449d8ad4aa55afbcbd40862,7a57b622e92a0a97829d,8,6,9,8,9,77.0
+poster,43,Mut zur Wut,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,9bd6e42926fd75e789b39c63186b1e19f89e2d966449d8ad4aa55afbcbd40862,7a57b622e92a0a97829d,8,6,7,8,8,72.5
+poster,43,Mut zur Wut,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,9bd6e42926fd75e789b39c63186b1e19f89e2d966449d8ad4aa55afbcbd40862,7a57b622e92a0a97829d,8,5,8,8,7,69.5
+poster,44,Gianna Rovere liest: Episoden von Alltagselefanten,reference,Award-winning works,gpt-6.1-sol,7c5d7e57a546aadeac724cf1f77bbca337fd3552d083a5ce4daf9d974ed8ef89,3b7f41d85b3832fda449,8,9,6,8,8,80.0
+poster,44,Gianna Rovere liest: Episoden von Alltagselefanten,artark,ArtArk,gpt-6.1-sol,7c5d7e57a546aadeac724cf1f77bbca337fd3552d083a5ce4daf9d974ed8ef89,3b7f41d85b3832fda449,8,8,8,9,8,82.0
+poster,44,Gianna Rovere liest: Episoden von Alltagselefanten,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,7c5d7e57a546aadeac724cf1f77bbca337fd3552d083a5ce4daf9d974ed8ef89,3b7f41d85b3832fda449,8,6,8,8,8,74.0
+poster,44,Gianna Rovere liest: Episoden von Alltagselefanten,gpt-image-2,GPT-Image-2,gpt-6.1-sol,7c5d7e57a546aadeac724cf1f77bbca337fd3552d083a5ce4daf9d974ed8ef89,3b7f41d85b3832fda449,8,7,8,8,8,77.0
+poster,44,Gianna Rovere liest: Episoden von Alltagselefanten,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,7c5d7e57a546aadeac724cf1f77bbca337fd3552d083a5ce4daf9d974ed8ef89,3b7f41d85b3832fda449,8,6,8,8,8,74.0
+poster,44,Gianna Rovere liest: Episoden von Alltagselefanten,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,7c5d7e57a546aadeac724cf1f77bbca337fd3552d083a5ce4daf9d974ed8ef89,3b7f41d85b3832fda449,8,7,8,8,8,77.0
+poster,44,Gianna Rovere liest: Episoden von Alltagselefanten,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,7c5d7e57a546aadeac724cf1f77bbca337fd3552d083a5ce4daf9d974ed8ef89,3b7f41d85b3832fda449,8,7,8,8,8,77.0
+poster,45,Salon skug 2025,reference,Award-winning works,gpt-6.1-sol,4d32b0c7bf4ca14075f33d620f7d870ece1657ed62b6f6bb230b522127bf8dfe,29f6de77d2bc22f06778,8,8,7,8,9,80.0
+poster,45,Salon skug 2025,artark,ArtArk,gpt-6.1-sol,4d32b0c7bf4ca14075f33d620f7d870ece1657ed62b6f6bb230b522127bf8dfe,29f6de77d2bc22f06778,8,7,8,8,9,78.5
+poster,45,Salon skug 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,4d32b0c7bf4ca14075f33d620f7d870ece1657ed62b6f6bb230b522127bf8dfe,29f6de77d2bc22f06778,8,6,8,8,8,74.0
+poster,45,Salon skug 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,4d32b0c7bf4ca14075f33d620f7d870ece1657ed62b6f6bb230b522127bf8dfe,29f6de77d2bc22f06778,8,6,8,8,8,74.0
+poster,45,Salon skug 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,4d32b0c7bf4ca14075f33d620f7d870ece1657ed62b6f6bb230b522127bf8dfe,29f6de77d2bc22f06778,8,6,8,8,8,74.0
+poster,45,Salon skug 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,4d32b0c7bf4ca14075f33d620f7d870ece1657ed62b6f6bb230b522127bf8dfe,29f6de77d2bc22f06778,8,7,8,8,8,77.0
+poster,45,Salon skug 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,4d32b0c7bf4ca14075f33d620f7d870ece1657ed62b6f6bb230b522127bf8dfe,29f6de77d2bc22f06778,8,6,8,8,8,74.0
+poster,46,Sichtbar,reference,Award-winning works,gpt-6.1-sol,ee34dbc50a818eff585c081df84dcae2e0533e46f706cbac85376d03376654db,d7298e06c43380244610,8,7,6,8,8,74.0
+poster,46,Sichtbar,artark,ArtArk,gpt-6.1-sol,ee34dbc50a818eff585c081df84dcae2e0533e46f706cbac85376d03376654db,d7298e06c43380244610,8,7,8,8,8,77.0
+poster,46,Sichtbar,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,ee34dbc50a818eff585c081df84dcae2e0533e46f706cbac85376d03376654db,d7298e06c43380244610,8,6,8,8,8,74.0
+poster,46,Sichtbar,gpt-image-2,GPT-Image-2,gpt-6.1-sol,ee34dbc50a818eff585c081df84dcae2e0533e46f706cbac85376d03376654db,d7298e06c43380244610,8,6,8,8,8,74.0
+poster,46,Sichtbar,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,ee34dbc50a818eff585c081df84dcae2e0533e46f706cbac85376d03376654db,d7298e06c43380244610,7,5,8,7,8,67.0
+poster,46,Sichtbar,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,ee34dbc50a818eff585c081df84dcae2e0533e46f706cbac85376d03376654db,d7298e06c43380244610,8,6,8,8,8,74.0
+poster,46,Sichtbar,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,ee34dbc50a818eff585c081df84dcae2e0533e46f706cbac85376d03376654db,d7298e06c43380244610,7,6,8,7,7,68.5
+poster,47,Hodler. Un modèle pour l’art suisse,reference,Award-winning works,gpt-6.1-sol,efb603d229db17a810ee0f7429044cc67bd4d637401e0dc7832516e3f165faad,4964e7f32dc5a183b8df,8,8,7,9,8,80.5
+poster,47,Hodler. Un modèle pour l’art suisse,artark,ArtArk,gpt-6.1-sol,efb603d229db17a810ee0f7429044cc67bd4d637401e0dc7832516e3f165faad,4964e7f32dc5a183b8df,8,6,8,8,8,74.0
+poster,47,Hodler. Un modèle pour l’art suisse,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,efb603d229db17a810ee0f7429044cc67bd4d637401e0dc7832516e3f165faad,4964e7f32dc5a183b8df,8,6,8,8,8,74.0
+poster,47,Hodler. Un modèle pour l’art suisse,gpt-image-2,GPT-Image-2,gpt-6.1-sol,efb603d229db17a810ee0f7429044cc67bd4d637401e0dc7832516e3f165faad,4964e7f32dc5a183b8df,8,6,8,8,8,74.0
+poster,47,Hodler. Un modèle pour l’art suisse,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,efb603d229db17a810ee0f7429044cc67bd4d637401e0dc7832516e3f165faad,4964e7f32dc5a183b8df,8,6,8,8,8,74.0
+poster,47,Hodler. Un modèle pour l’art suisse,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,efb603d229db17a810ee0f7429044cc67bd4d637401e0dc7832516e3f165faad,4964e7f32dc5a183b8df,8,7,8,8,9,78.5
+poster,47,Hodler. Un modèle pour l’art suisse,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,efb603d229db17a810ee0f7429044cc67bd4d637401e0dc7832516e3f165faad,4964e7f32dc5a183b8df,8,6,7,8,8,72.5
+poster,48,GDC Award 25,reference,Award-winning works,gpt-6.1-sol,907f529bb0add7703199ff556db6315377cf84d490e296ea8bbfe1ccf61f0b67,d26fa128836dc941122e,8,7,7,8,8,75.5
+poster,48,GDC Award 25,artark,ArtArk,gpt-6.1-sol,907f529bb0add7703199ff556db6315377cf84d490e296ea8bbfe1ccf61f0b67,d26fa128836dc941122e,8,7,8,8,8,77.0
+poster,48,GDC Award 25,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,907f529bb0add7703199ff556db6315377cf84d490e296ea8bbfe1ccf61f0b67,d26fa128836dc941122e,8,7,8,8,8,77.0
+poster,48,GDC Award 25,gpt-image-2,GPT-Image-2,gpt-6.1-sol,907f529bb0add7703199ff556db6315377cf84d490e296ea8bbfe1ccf61f0b67,d26fa128836dc941122e,8,6,8,8,8,74.0
+poster,48,GDC Award 25,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,907f529bb0add7703199ff556db6315377cf84d490e296ea8bbfe1ccf61f0b67,d26fa128836dc941122e,8,6,8,8,8,74.0
+poster,48,GDC Award 25,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,907f529bb0add7703199ff556db6315377cf84d490e296ea8bbfe1ccf61f0b67,d26fa128836dc941122e,8,6,6,8,5,66.5
+poster,48,GDC Award 25,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,907f529bb0add7703199ff556db6315377cf84d490e296ea8bbfe1ccf61f0b67,d26fa128836dc941122e,7,5,7,8,8,67.5
+poster,49,K-Culture,reference,Award-winning works,gpt-6.1-sol,6c8fad8342178d4cca6704b09f0b7991b4f6d314fa120575e2a7742e531c7a18,06439b63b881e88cd27f,8,7,8,8,8,77.0
+poster,49,K-Culture,artark,ArtArk,gpt-6.1-sol,6c8fad8342178d4cca6704b09f0b7991b4f6d314fa120575e2a7742e531c7a18,06439b63b881e88cd27f,8,7,8,9,8,79.0
+poster,49,K-Culture,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,6c8fad8342178d4cca6704b09f0b7991b4f6d314fa120575e2a7742e531c7a18,06439b63b881e88cd27f,8,6,8,8,8,74.0
+poster,49,K-Culture,gpt-image-2,GPT-Image-2,gpt-6.1-sol,6c8fad8342178d4cca6704b09f0b7991b4f6d314fa120575e2a7742e531c7a18,06439b63b881e88cd27f,8,6,8,8,8,74.0
+poster,49,K-Culture,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,6c8fad8342178d4cca6704b09f0b7991b4f6d314fa120575e2a7742e531c7a18,06439b63b881e88cd27f,8,6,8,8,8,74.0
+poster,49,K-Culture,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,6c8fad8342178d4cca6704b09f0b7991b4f6d314fa120575e2a7742e531c7a18,06439b63b881e88cd27f,8,6,8,8,8,74.0
+poster,49,K-Culture,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,6c8fad8342178d4cca6704b09f0b7991b4f6d314fa120575e2a7742e531c7a18,06439b63b881e88cd27f,7,5,8,7,8,67.0
+poster,50,passato presente,reference,Award-winning works,gpt-6.1-sol,d640f2f1ba2d56007ae0630f5130c9a857bb6d4c0282749ebe9135c111b28da8,b1ff4940f9fecdbd833f,8,8,8,8,9,81.5
+poster,50,passato presente,artark,ArtArk,gpt-6.1-sol,d640f2f1ba2d56007ae0630f5130c9a857bb6d4c0282749ebe9135c111b28da8,b1ff4940f9fecdbd833f,8,7,8,8,9,78.5
+poster,50,passato presente,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,d640f2f1ba2d56007ae0630f5130c9a857bb6d4c0282749ebe9135c111b28da8,b1ff4940f9fecdbd833f,8,7,8,8,8,77.0
+poster,50,passato presente,gpt-image-2,GPT-Image-2,gpt-6.1-sol,d640f2f1ba2d56007ae0630f5130c9a857bb6d4c0282749ebe9135c111b28da8,b1ff4940f9fecdbd833f,8,6,8,8,8,74.0
+poster,50,passato presente,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,d640f2f1ba2d56007ae0630f5130c9a857bb6d4c0282749ebe9135c111b28da8,b1ff4940f9fecdbd833f,7,6,8,8,8,72.0
+poster,50,passato presente,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,d640f2f1ba2d56007ae0630f5130c9a857bb6d4c0282749ebe9135c111b28da8,b1ff4940f9fecdbd833f,8,6,8,8,8,74.0
+poster,50,passato presente,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,d640f2f1ba2d56007ae0630f5130c9a857bb6d4c0282749ebe9135c111b28da8,b1ff4940f9fecdbd833f,8,7,7,8,7,74.0
+poster,51,Internationales Narrentreffen Willisau,reference,Award-winning works,gpt-6.1-sol,bc080b3beb4d46523485f06c09c8978c15f943722a5891c75cb3eda27dde6bc4,b5682b7dbfe6779b0f32,9,8,8,9,8,84.0
+poster,51,Internationales Narrentreffen Willisau,artark,ArtArk,gpt-6.1-sol,bc080b3beb4d46523485f06c09c8978c15f943722a5891c75cb3eda27dde6bc4,b5682b7dbfe6779b0f32,9,7,8,9,9,82.5
+poster,51,Internationales Narrentreffen Willisau,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,bc080b3beb4d46523485f06c09c8978c15f943722a5891c75cb3eda27dde6bc4,b5682b7dbfe6779b0f32,8,6,8,8,8,74.0
+poster,51,Internationales Narrentreffen Willisau,gpt-image-2,GPT-Image-2,gpt-6.1-sol,bc080b3beb4d46523485f06c09c8978c15f943722a5891c75cb3eda27dde6bc4,b5682b7dbfe6779b0f32,8,6,8,8,8,74.0
+poster,51,Internationales Narrentreffen Willisau,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,bc080b3beb4d46523485f06c09c8978c15f943722a5891c75cb3eda27dde6bc4,b5682b7dbfe6779b0f32,8,6,8,8,8,74.0
+poster,51,Internationales Narrentreffen Willisau,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,bc080b3beb4d46523485f06c09c8978c15f943722a5891c75cb3eda27dde6bc4,b5682b7dbfe6779b0f32,8,6,8,8,8,74.0
+poster,51,Internationales Narrentreffen Willisau,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,bc080b3beb4d46523485f06c09c8978c15f943722a5891c75cb3eda27dde6bc4,b5682b7dbfe6779b0f32,8,6,7,8,8,72.5
+poster,52,Plakatszene Luzern,reference,Award-winning works,gpt-6.1-sol,95016504119ac1596ab9e772c290ea93ebc786832a04c670d33d51cd146b0521,05a6e396c75875c443fc,9,8,7,9,9,84.0
+poster,52,Plakatszene Luzern,artark,ArtArk,gpt-6.1-sol,95016504119ac1596ab9e772c290ea93ebc786832a04c670d33d51cd146b0521,05a6e396c75875c443fc,8,7,8,8,8,77.0
+poster,52,Plakatszene Luzern,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,95016504119ac1596ab9e772c290ea93ebc786832a04c670d33d51cd146b0521,05a6e396c75875c443fc,8,7,8,8,8,77.0
+poster,52,Plakatszene Luzern,gpt-image-2,GPT-Image-2,gpt-6.1-sol,95016504119ac1596ab9e772c290ea93ebc786832a04c670d33d51cd146b0521,05a6e396c75875c443fc,8,6,8,8,8,74.0
+poster,52,Plakatszene Luzern,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,95016504119ac1596ab9e772c290ea93ebc786832a04c670d33d51cd146b0521,05a6e396c75875c443fc,7,6,8,8,8,72.0
+poster,52,Plakatszene Luzern,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,95016504119ac1596ab9e772c290ea93ebc786832a04c670d33d51cd146b0521,05a6e396c75875c443fc,8,7,8,8,8,77.0
+poster,52,Plakatszene Luzern,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,95016504119ac1596ab9e772c290ea93ebc786832a04c670d33d51cd146b0521,05a6e396c75875c443fc,7,6,8,7,7,68.5
+poster,53,Imagined Swiss Landscapes: Perspectives and Edges in Image Collage,reference,Award-winning works,gpt-6.1-sol,cb6c86759f5be7673ff7c21ad4431dbae482b7b71e29fd14ba96fee697127b32,aef2562b3d3968a76274,8,7,7,8,8,75.5
+poster,53,Imagined Swiss Landscapes: Perspectives and Edges in Image Collage,artark,ArtArk,gpt-6.1-sol,cb6c86759f5be7673ff7c21ad4431dbae482b7b71e29fd14ba96fee697127b32,aef2562b3d3968a76274,8,7,8,8,8,77.0
+poster,53,Imagined Swiss Landscapes: Perspectives and Edges in Image Collage,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,cb6c86759f5be7673ff7c21ad4431dbae482b7b71e29fd14ba96fee697127b32,aef2562b3d3968a76274,8,7,8,8,8,77.0
+poster,53,Imagined Swiss Landscapes: Perspectives and Edges in Image Collage,gpt-image-2,GPT-Image-2,gpt-6.1-sol,cb6c86759f5be7673ff7c21ad4431dbae482b7b71e29fd14ba96fee697127b32,aef2562b3d3968a76274,8,7,8,8,8,77.0
+poster,53,Imagined Swiss Landscapes: Perspectives and Edges in Image Collage,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,cb6c86759f5be7673ff7c21ad4431dbae482b7b71e29fd14ba96fee697127b32,aef2562b3d3968a76274,8,7,8,8,7,75.5
+poster,53,Imagined Swiss Landscapes: Perspectives and Edges in Image Collage,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,cb6c86759f5be7673ff7c21ad4431dbae482b7b71e29fd14ba96fee697127b32,aef2562b3d3968a76274,8,7,8,8,8,77.0
+poster,53,Imagined Swiss Landscapes: Perspectives and Edges in Image Collage,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,cb6c86759f5be7673ff7c21ad4431dbae482b7b71e29fd14ba96fee697127b32,aef2562b3d3968a76274,8,7,8,8,8,77.0
+poster,54,Scène Ella Fitzgerald,reference,Award-winning works,gpt-6.1-sol,b69da21ae90aa50ac38d648952736e12e333cd1c39862a66ef7a87e1bc04ebca,a31421bde3085efbf664,8,8,8,8,8,80.0
+poster,54,Scène Ella Fitzgerald,artark,ArtArk,gpt-6.1-sol,b69da21ae90aa50ac38d648952736e12e333cd1c39862a66ef7a87e1bc04ebca,a31421bde3085efbf664,8,7,8,8,8,77.0
+poster,54,Scène Ella Fitzgerald,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,b69da21ae90aa50ac38d648952736e12e333cd1c39862a66ef7a87e1bc04ebca,a31421bde3085efbf664,8,6,8,8,8,74.0
+poster,54,Scène Ella Fitzgerald,gpt-image-2,GPT-Image-2,gpt-6.1-sol,b69da21ae90aa50ac38d648952736e12e333cd1c39862a66ef7a87e1bc04ebca,a31421bde3085efbf664,8,6,7,8,8,72.5
+poster,54,Scène Ella Fitzgerald,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,b69da21ae90aa50ac38d648952736e12e333cd1c39862a66ef7a87e1bc04ebca,a31421bde3085efbf664,8,5,8,8,8,71.0
+poster,54,Scène Ella Fitzgerald,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,b69da21ae90aa50ac38d648952736e12e333cd1c39862a66ef7a87e1bc04ebca,a31421bde3085efbf664,8,6,8,8,8,74.0
+poster,54,Scène Ella Fitzgerald,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,b69da21ae90aa50ac38d648952736e12e333cd1c39862a66ef7a87e1bc04ebca,a31421bde3085efbf664,8,6,8,8,8,74.0
+poster,55,Oooohhh,reference,Award-winning works,gpt-6.1-sol,c81fafa9aa38fb5ec08f7fcecf96837e84fa2d44f9889760aefa5af2583b5f7e,8ce0b23396ea8fc90388,8,6,8,8,8,74.0
+poster,55,Oooohhh,artark,ArtArk,gpt-6.1-sol,c81fafa9aa38fb5ec08f7fcecf96837e84fa2d44f9889760aefa5af2583b5f7e,8ce0b23396ea8fc90388,8,7,8,8,8,77.0
+poster,55,Oooohhh,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,c81fafa9aa38fb5ec08f7fcecf96837e84fa2d44f9889760aefa5af2583b5f7e,8ce0b23396ea8fc90388,8,6,8,8,8,74.0
+poster,55,Oooohhh,gpt-image-2,GPT-Image-2,gpt-6.1-sol,c81fafa9aa38fb5ec08f7fcecf96837e84fa2d44f9889760aefa5af2583b5f7e,8ce0b23396ea8fc90388,8,6,8,8,8,74.0
+poster,55,Oooohhh,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,c81fafa9aa38fb5ec08f7fcecf96837e84fa2d44f9889760aefa5af2583b5f7e,8ce0b23396ea8fc90388,8,6,8,8,8,74.0
+poster,55,Oooohhh,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,c81fafa9aa38fb5ec08f7fcecf96837e84fa2d44f9889760aefa5af2583b5f7e,8ce0b23396ea8fc90388,8,7,8,9,9,80.5
+poster,55,Oooohhh,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,c81fafa9aa38fb5ec08f7fcecf96837e84fa2d44f9889760aefa5af2583b5f7e,8ce0b23396ea8fc90388,8,6,8,8,8,74.0
+poster,56,Schwimmparade Donaukanal 2025,reference,Award-winning works,gpt-6.1-sol,962ab598a07b97772553e83c52a15e1dba3ff5e442e789d3a7416339ec782fbb,39b8f41f6adb15deb9fd,7,6,6,7,8,67.0
+poster,56,Schwimmparade Donaukanal 2025,artark,ArtArk,gpt-6.1-sol,962ab598a07b97772553e83c52a15e1dba3ff5e442e789d3a7416339ec782fbb,39b8f41f6adb15deb9fd,9,7,9,9,8,82.5
+poster,56,Schwimmparade Donaukanal 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,962ab598a07b97772553e83c52a15e1dba3ff5e442e789d3a7416339ec782fbb,39b8f41f6adb15deb9fd,8,6,8,8,8,74.0
+poster,56,Schwimmparade Donaukanal 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,962ab598a07b97772553e83c52a15e1dba3ff5e442e789d3a7416339ec782fbb,39b8f41f6adb15deb9fd,8,6,8,8,8,74.0
+poster,56,Schwimmparade Donaukanal 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,962ab598a07b97772553e83c52a15e1dba3ff5e442e789d3a7416339ec782fbb,39b8f41f6adb15deb9fd,8,6,8,8,8,74.0
+poster,56,Schwimmparade Donaukanal 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,962ab598a07b97772553e83c52a15e1dba3ff5e442e789d3a7416339ec782fbb,39b8f41f6adb15deb9fd,8,6,8,8,8,74.0
+poster,56,Schwimmparade Donaukanal 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,962ab598a07b97772553e83c52a15e1dba3ff5e442e789d3a7416339ec782fbb,39b8f41f6adb15deb9fd,8,5,8,8,7,69.5
+poster,57,"Heim Test, test Heim",reference,Award-winning works,gpt-6.1-sol,e787d79adedd8fb7440756a2bff0eeeb8cbaa66e23c1ca41627a35cd788638e3,71a025062c4067ec8e7c,8,7,6,8,8,74.0
+poster,57,"Heim Test, test Heim",artark,ArtArk,gpt-6.1-sol,e787d79adedd8fb7440756a2bff0eeeb8cbaa66e23c1ca41627a35cd788638e3,71a025062c4067ec8e7c,8,7,8,8,9,78.5
+poster,57,"Heim Test, test Heim",gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,e787d79adedd8fb7440756a2bff0eeeb8cbaa66e23c1ca41627a35cd788638e3,71a025062c4067ec8e7c,8,5,8,8,8,71.0
+poster,57,"Heim Test, test Heim",gpt-image-2,GPT-Image-2,gpt-6.1-sol,e787d79adedd8fb7440756a2bff0eeeb8cbaa66e23c1ca41627a35cd788638e3,71a025062c4067ec8e7c,8,6,8,8,8,74.0
+poster,57,"Heim Test, test Heim",gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,e787d79adedd8fb7440756a2bff0eeeb8cbaa66e23c1ca41627a35cd788638e3,71a025062c4067ec8e7c,8,5,9,8,8,72.5
+poster,57,"Heim Test, test Heim",nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,e787d79adedd8fb7440756a2bff0eeeb8cbaa66e23c1ca41627a35cd788638e3,71a025062c4067ec8e7c,8,7,8,8,8,77.0
+poster,57,"Heim Test, test Heim",doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,e787d79adedd8fb7440756a2bff0eeeb8cbaa66e23c1ca41627a35cd788638e3,71a025062c4067ec8e7c,8,5,7,8,7,68.0
+poster,58,Kein Kino Lecture Series FS25,reference,Award-winning works,gpt-6.1-sol,c8a920da391e9aabfe5428ac931e03538b2e8322da948350438d8a2f4a53bdd2,85c5b1663254e6c2456b,8,7,7,8,8,75.5
+poster,58,Kein Kino Lecture Series FS25,artark,ArtArk,gpt-6.1-sol,c8a920da391e9aabfe5428ac931e03538b2e8322da948350438d8a2f4a53bdd2,85c5b1663254e6c2456b,8,6,8,8,8,74.0
+poster,58,Kein Kino Lecture Series FS25,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,c8a920da391e9aabfe5428ac931e03538b2e8322da948350438d8a2f4a53bdd2,85c5b1663254e6c2456b,8,6,8,8,8,74.0
+poster,58,Kein Kino Lecture Series FS25,gpt-image-2,GPT-Image-2,gpt-6.1-sol,c8a920da391e9aabfe5428ac931e03538b2e8322da948350438d8a2f4a53bdd2,85c5b1663254e6c2456b,8,6,8,8,8,74.0
+poster,58,Kein Kino Lecture Series FS25,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,c8a920da391e9aabfe5428ac931e03538b2e8322da948350438d8a2f4a53bdd2,85c5b1663254e6c2456b,7,5,8,8,8,69.0
+poster,58,Kein Kino Lecture Series FS25,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,c8a920da391e9aabfe5428ac931e03538b2e8322da948350438d8a2f4a53bdd2,85c5b1663254e6c2456b,8,6,7,8,8,72.5
+poster,58,Kein Kino Lecture Series FS25,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,c8a920da391e9aabfe5428ac931e03538b2e8322da948350438d8a2f4a53bdd2,85c5b1663254e6c2456b,8,7,8,8,7,75.5
+poster,59,Oxytocin,reference,Award-winning works,gpt-6.1-sol,fe59c204a40f61c4d51fb41a9e7bb7b641794827bafa71d16d5a4034bdeca32a,621593ba0d13a49c16ed,9,9,7,9,8,85.5
+poster,59,Oxytocin,artark,ArtArk,gpt-6.1-sol,fe59c204a40f61c4d51fb41a9e7bb7b641794827bafa71d16d5a4034bdeca32a,621593ba0d13a49c16ed,8,7,8,8,8,77.0
+poster,59,Oxytocin,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,fe59c204a40f61c4d51fb41a9e7bb7b641794827bafa71d16d5a4034bdeca32a,621593ba0d13a49c16ed,8,7,8,8,8,77.0
+poster,59,Oxytocin,gpt-image-2,GPT-Image-2,gpt-6.1-sol,fe59c204a40f61c4d51fb41a9e7bb7b641794827bafa71d16d5a4034bdeca32a,621593ba0d13a49c16ed,8,7,8,8,8,77.0
+poster,59,Oxytocin,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,fe59c204a40f61c4d51fb41a9e7bb7b641794827bafa71d16d5a4034bdeca32a,621593ba0d13a49c16ed,8,6,8,8,8,74.0
+poster,59,Oxytocin,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,fe59c204a40f61c4d51fb41a9e7bb7b641794827bafa71d16d5a4034bdeca32a,621593ba0d13a49c16ed,8,7,8,8,8,77.0
+poster,59,Oxytocin,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,fe59c204a40f61c4d51fb41a9e7bb7b641794827bafa71d16d5a4034bdeca32a,621593ba0d13a49c16ed,8,6,8,8,7,72.5
+poster,60,Potsa Lotsa,reference,Award-winning works,gpt-6.1-sol,69d1debd452da497f2962e6c31cfc48291362adb0af438c2bc1449f1f69c2cc1,4fab77cdbcca4a756327,8,9,7,8,8,81.5
+poster,60,Potsa Lotsa,artark,ArtArk,gpt-6.1-sol,69d1debd452da497f2962e6c31cfc48291362adb0af438c2bc1449f1f69c2cc1,4fab77cdbcca4a756327,8,8,9,8,8,81.5
+poster,60,Potsa Lotsa,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,69d1debd452da497f2962e6c31cfc48291362adb0af438c2bc1449f1f69c2cc1,4fab77cdbcca4a756327,8,6,8,8,8,74.0
+poster,60,Potsa Lotsa,gpt-image-2,GPT-Image-2,gpt-6.1-sol,69d1debd452da497f2962e6c31cfc48291362adb0af438c2bc1449f1f69c2cc1,4fab77cdbcca4a756327,8,6,8,8,8,74.0
+poster,60,Potsa Lotsa,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,69d1debd452da497f2962e6c31cfc48291362adb0af438c2bc1449f1f69c2cc1,4fab77cdbcca4a756327,8,6,8,8,8,74.0
+poster,60,Potsa Lotsa,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,69d1debd452da497f2962e6c31cfc48291362adb0af438c2bc1449f1f69c2cc1,4fab77cdbcca4a756327,8,6,8,8,8,74.0
+poster,60,Potsa Lotsa,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,69d1debd452da497f2962e6c31cfc48291362adb0af438c2bc1449f1f69c2cc1,4fab77cdbcca4a756327,8,6,8,8,8,74.0
+poster,61,Hello Image,reference,Award-winning works,gpt-6.1-sol,43881a6f6d0624a380bb4f35089764d36d8608a068354db9c74f79868f4d9af5,bf52afeebc431c3e9701,8,8,8,8,9,81.5
+poster,61,Hello Image,artark,ArtArk,gpt-6.1-sol,43881a6f6d0624a380bb4f35089764d36d8608a068354db9c74f79868f4d9af5,bf52afeebc431c3e9701,9,8,8,9,9,85.5
+poster,61,Hello Image,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,43881a6f6d0624a380bb4f35089764d36d8608a068354db9c74f79868f4d9af5,bf52afeebc431c3e9701,9,8,8,8,9,83.5
+poster,61,Hello Image,gpt-image-2,GPT-Image-2,gpt-6.1-sol,43881a6f6d0624a380bb4f35089764d36d8608a068354db9c74f79868f4d9af5,bf52afeebc431c3e9701,8,7,8,8,8,77.0
+poster,61,Hello Image,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,43881a6f6d0624a380bb4f35089764d36d8608a068354db9c74f79868f4d9af5,bf52afeebc431c3e9701,8,7,8,8,8,77.0
+poster,61,Hello Image,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,43881a6f6d0624a380bb4f35089764d36d8608a068354db9c74f79868f4d9af5,bf52afeebc431c3e9701,8,7,8,8,8,77.0
+poster,61,Hello Image,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,43881a6f6d0624a380bb4f35089764d36d8608a068354db9c74f79868f4d9af5,bf52afeebc431c3e9701,8,8,8,8,8,80.0
+poster,62,Lausanne Underground Film & Music Festival 2025,reference,Award-winning works,gpt-6.1-sol,6353c4f12cbb23a7fc1b0e73f58051962fafaa5c05e4e1e844d38b12079cb76f,21157caae2778595a014,8,7,7,8,8,75.5
+poster,62,Lausanne Underground Film & Music Festival 2025,artark,ArtArk,gpt-6.1-sol,6353c4f12cbb23a7fc1b0e73f58051962fafaa5c05e4e1e844d38b12079cb76f,21157caae2778595a014,8,7,8,8,8,77.0
+poster,62,Lausanne Underground Film & Music Festival 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,6353c4f12cbb23a7fc1b0e73f58051962fafaa5c05e4e1e844d38b12079cb76f,21157caae2778595a014,8,7,8,8,8,77.0
+poster,62,Lausanne Underground Film & Music Festival 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,6353c4f12cbb23a7fc1b0e73f58051962fafaa5c05e4e1e844d38b12079cb76f,21157caae2778595a014,8,6,8,8,8,74.0
+poster,62,Lausanne Underground Film & Music Festival 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,6353c4f12cbb23a7fc1b0e73f58051962fafaa5c05e4e1e844d38b12079cb76f,21157caae2778595a014,8,6,8,8,8,74.0
+poster,62,Lausanne Underground Film & Music Festival 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,6353c4f12cbb23a7fc1b0e73f58051962fafaa5c05e4e1e844d38b12079cb76f,21157caae2778595a014,8,7,8,8,8,77.0
+poster,62,Lausanne Underground Film & Music Festival 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,6353c4f12cbb23a7fc1b0e73f58051962fafaa5c05e4e1e844d38b12079cb76f,21157caae2778595a014,8,7,8,8,8,77.0
+poster,63,Playtime 2025,reference,Award-winning works,gpt-6.1-sol,93d8641a20fd712594cc011d00434ab4ecdf304fa38ef9dc68e3270442ae5a45,133d4b1b2ce9255ad5f6,8,8,7,8,8,78.5
+poster,63,Playtime 2025,artark,ArtArk,gpt-6.1-sol,93d8641a20fd712594cc011d00434ab4ecdf304fa38ef9dc68e3270442ae5a45,133d4b1b2ce9255ad5f6,8,7,8,8,8,77.0
+poster,63,Playtime 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,93d8641a20fd712594cc011d00434ab4ecdf304fa38ef9dc68e3270442ae5a45,133d4b1b2ce9255ad5f6,8,6,8,8,8,74.0
+poster,63,Playtime 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,93d8641a20fd712594cc011d00434ab4ecdf304fa38ef9dc68e3270442ae5a45,133d4b1b2ce9255ad5f6,7,6,8,8,8,72.0
+poster,63,Playtime 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,93d8641a20fd712594cc011d00434ab4ecdf304fa38ef9dc68e3270442ae5a45,133d4b1b2ce9255ad5f6,8,6,8,8,8,74.0
+poster,63,Playtime 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,93d8641a20fd712594cc011d00434ab4ecdf304fa38ef9dc68e3270442ae5a45,133d4b1b2ce9255ad5f6,8,6,8,8,8,74.0
+poster,63,Playtime 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,93d8641a20fd712594cc011d00434ab4ecdf304fa38ef9dc68e3270442ae5a45,133d4b1b2ce9255ad5f6,7,5,7,7,6,62.5
+poster,64,Saison 2025/26,reference,Award-winning works,gpt-6.1-sol,c30eb27b7487dd8608c0ba778ad05f70d1911704f298fb173e6c56c69f516463,014cfe0da3c10bf3cf36,8,8,7,8,8,78.5
+poster,64,Saison 2025/26,artark,ArtArk,gpt-6.1-sol,c30eb27b7487dd8608c0ba778ad05f70d1911704f298fb173e6c56c69f516463,014cfe0da3c10bf3cf36,8,6,8,8,8,74.0
+poster,64,Saison 2025/26,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,c30eb27b7487dd8608c0ba778ad05f70d1911704f298fb173e6c56c69f516463,014cfe0da3c10bf3cf36,8,6,8,8,9,75.5
+poster,64,Saison 2025/26,gpt-image-2,GPT-Image-2,gpt-6.1-sol,c30eb27b7487dd8608c0ba778ad05f70d1911704f298fb173e6c56c69f516463,014cfe0da3c10bf3cf36,8,6,8,8,8,74.0
+poster,64,Saison 2025/26,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,c30eb27b7487dd8608c0ba778ad05f70d1911704f298fb173e6c56c69f516463,014cfe0da3c10bf3cf36,8,6,9,8,9,77.0
+poster,64,Saison 2025/26,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,c30eb27b7487dd8608c0ba778ad05f70d1911704f298fb173e6c56c69f516463,014cfe0da3c10bf3cf36,8,6,7,8,8,72.5
+poster,64,Saison 2025/26,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,c30eb27b7487dd8608c0ba778ad05f70d1911704f298fb173e6c56c69f516463,014cfe0da3c10bf3cf36,8,6,8,8,7,72.5
+poster,65,Oliver Ressler,reference,Award-winning works,gpt-6.1-sol,32798210beaa006c276a35d4d1d953a158edf2e3292f83d8ee8145b35f3c2968,fee9dfc13af0db4a6f19,9,8,8,9,8,84.0
+poster,65,Oliver Ressler,artark,ArtArk,gpt-6.1-sol,32798210beaa006c276a35d4d1d953a158edf2e3292f83d8ee8145b35f3c2968,fee9dfc13af0db4a6f19,8,7,8,8,8,77.0
+poster,65,Oliver Ressler,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,32798210beaa006c276a35d4d1d953a158edf2e3292f83d8ee8145b35f3c2968,fee9dfc13af0db4a6f19,8,6,9,8,8,75.5
+poster,65,Oliver Ressler,gpt-image-2,GPT-Image-2,gpt-6.1-sol,32798210beaa006c276a35d4d1d953a158edf2e3292f83d8ee8145b35f3c2968,fee9dfc13af0db4a6f19,8,6,9,8,8,75.5
+poster,65,Oliver Ressler,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,32798210beaa006c276a35d4d1d953a158edf2e3292f83d8ee8145b35f3c2968,fee9dfc13af0db4a6f19,8,7,8,8,8,77.0
+poster,65,Oliver Ressler,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,32798210beaa006c276a35d4d1d953a158edf2e3292f83d8ee8145b35f3c2968,fee9dfc13af0db4a6f19,8,6,7,8,8,72.5
+poster,65,Oliver Ressler,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,32798210beaa006c276a35d4d1d953a158edf2e3292f83d8ee8145b35f3c2968,fee9dfc13af0db4a6f19,8,6,7,8,8,72.5
+poster,66,Haus für Poesie – Programmkampagne September/Oktober 2025,reference,Award-winning works,gpt-6.1-sol,324c0b694cb08457603874d4c0cac202ff6f1931de008cf6943a6d039563f0d2,2c51aa0d855430eca9ba,8,7,7,8,8,75.5
+poster,66,Haus für Poesie – Programmkampagne September/Oktober 2025,artark,ArtArk,gpt-6.1-sol,324c0b694cb08457603874d4c0cac202ff6f1931de008cf6943a6d039563f0d2,2c51aa0d855430eca9ba,8,7,9,8,9,80.0
+poster,66,Haus für Poesie – Programmkampagne September/Oktober 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,324c0b694cb08457603874d4c0cac202ff6f1931de008cf6943a6d039563f0d2,2c51aa0d855430eca9ba,8,6,8,8,8,74.0
+poster,66,Haus für Poesie – Programmkampagne September/Oktober 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,324c0b694cb08457603874d4c0cac202ff6f1931de008cf6943a6d039563f0d2,2c51aa0d855430eca9ba,8,7,8,8,8,77.0
+poster,66,Haus für Poesie – Programmkampagne September/Oktober 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,324c0b694cb08457603874d4c0cac202ff6f1931de008cf6943a6d039563f0d2,2c51aa0d855430eca9ba,8,6,9,8,8,75.5
+poster,66,Haus für Poesie – Programmkampagne September/Oktober 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,324c0b694cb08457603874d4c0cac202ff6f1931de008cf6943a6d039563f0d2,2c51aa0d855430eca9ba,8,7,8,9,9,80.5
+poster,66,Haus für Poesie – Programmkampagne September/Oktober 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,324c0b694cb08457603874d4c0cac202ff6f1931de008cf6943a6d039563f0d2,2c51aa0d855430eca9ba,8,6,7,8,7,71.0
+poster,67,keep cool,reference,Award-winning works,gpt-6.1-sol,efe4d28af03cee3aa8dfa86555aa28f317d0574d324662b7d05a43f29b558641,eebabdbb0827f1030fb4,8,7,7,8,8,75.5
+poster,67,keep cool,artark,ArtArk,gpt-6.1-sol,efe4d28af03cee3aa8dfa86555aa28f317d0574d324662b7d05a43f29b558641,eebabdbb0827f1030fb4,9,8,9,9,8,85.5
+poster,67,keep cool,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,efe4d28af03cee3aa8dfa86555aa28f317d0574d324662b7d05a43f29b558641,eebabdbb0827f1030fb4,8,6,8,8,8,74.0
+poster,67,keep cool,gpt-image-2,GPT-Image-2,gpt-6.1-sol,efe4d28af03cee3aa8dfa86555aa28f317d0574d324662b7d05a43f29b558641,eebabdbb0827f1030fb4,8,6,8,8,8,74.0
+poster,67,keep cool,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,efe4d28af03cee3aa8dfa86555aa28f317d0574d324662b7d05a43f29b558641,eebabdbb0827f1030fb4,8,6,8,8,8,74.0
+poster,67,keep cool,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,efe4d28af03cee3aa8dfa86555aa28f317d0574d324662b7d05a43f29b558641,eebabdbb0827f1030fb4,8,6,8,8,8,74.0
+poster,67,keep cool,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,efe4d28af03cee3aa8dfa86555aa28f317d0574d324662b7d05a43f29b558641,eebabdbb0827f1030fb4,8,6,7,8,8,72.5
+poster,68,psychomanteon,reference,Award-winning works,gpt-6.1-sol,b24450eb9811fa5d9656cb2a369b362bdf30b3cf87c744ac708087fed69d23cb,2bc64f52af5fa665aa7d,7,7,7,8,8,73.5
+poster,68,psychomanteon,artark,ArtArk,gpt-6.1-sol,b24450eb9811fa5d9656cb2a369b362bdf30b3cf87c744ac708087fed69d23cb,2bc64f52af5fa665aa7d,8,8,8,9,9,83.5
+poster,68,psychomanteon,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,b24450eb9811fa5d9656cb2a369b362bdf30b3cf87c744ac708087fed69d23cb,2bc64f52af5fa665aa7d,8,6,8,8,8,74.0
+poster,68,psychomanteon,gpt-image-2,GPT-Image-2,gpt-6.1-sol,b24450eb9811fa5d9656cb2a369b362bdf30b3cf87c744ac708087fed69d23cb,2bc64f52af5fa665aa7d,8,6,8,8,8,74.0
+poster,68,psychomanteon,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,b24450eb9811fa5d9656cb2a369b362bdf30b3cf87c744ac708087fed69d23cb,2bc64f52af5fa665aa7d,8,6,8,8,8,74.0
+poster,68,psychomanteon,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,b24450eb9811fa5d9656cb2a369b362bdf30b3cf87c744ac708087fed69d23cb,2bc64f52af5fa665aa7d,8,7,8,8,8,77.0
+poster,68,psychomanteon,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,b24450eb9811fa5d9656cb2a369b362bdf30b3cf87c744ac708087fed69d23cb,2bc64f52af5fa665aa7d,8,7,7,8,8,75.5
+poster,69,Im Sommer,reference,Award-winning works,gpt-6.1-sol,af66951dc6a90c494426facaef2741a64b2546e62f4202cd4130a6a5c3a45fd7,ab6214988b04a868b920,8,8,6,8,7,75.5
+poster,69,Im Sommer,artark,ArtArk,gpt-6.1-sol,af66951dc6a90c494426facaef2741a64b2546e62f4202cd4130a6a5c3a45fd7,ab6214988b04a868b920,9,7,9,9,8,82.5
+poster,69,Im Sommer,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,af66951dc6a90c494426facaef2741a64b2546e62f4202cd4130a6a5c3a45fd7,ab6214988b04a868b920,8,6,8,8,8,74.0
+poster,69,Im Sommer,gpt-image-2,GPT-Image-2,gpt-6.1-sol,af66951dc6a90c494426facaef2741a64b2546e62f4202cd4130a6a5c3a45fd7,ab6214988b04a868b920,9,6,8,9,8,78.0
+poster,69,Im Sommer,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,af66951dc6a90c494426facaef2741a64b2546e62f4202cd4130a6a5c3a45fd7,ab6214988b04a868b920,8,6,8,8,8,74.0
+poster,69,Im Sommer,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,af66951dc6a90c494426facaef2741a64b2546e62f4202cd4130a6a5c3a45fd7,ab6214988b04a868b920,8,6,7,8,8,72.5
+poster,69,Im Sommer,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,af66951dc6a90c494426facaef2741a64b2546e62f4202cd4130a6a5c3a45fd7,ab6214988b04a868b920,8,6,8,8,8,74.0
+poster,70,La Bohème,reference,Award-winning works,gpt-6.1-sol,def5fa86bf8bc118edf06404b645184d33bda43bac0f9b3b4a4b83cb6b7391ad,61ba466f4a8921968264,7,8,7,8,8,76.5
+poster,70,La Bohème,artark,ArtArk,gpt-6.1-sol,def5fa86bf8bc118edf06404b645184d33bda43bac0f9b3b4a4b83cb6b7391ad,61ba466f4a8921968264,8,6,9,8,9,77.0
+poster,70,La Bohème,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,def5fa86bf8bc118edf06404b645184d33bda43bac0f9b3b4a4b83cb6b7391ad,61ba466f4a8921968264,8,6,8,9,8,76.0
+poster,70,La Bohème,gpt-image-2,GPT-Image-2,gpt-6.1-sol,def5fa86bf8bc118edf06404b645184d33bda43bac0f9b3b4a4b83cb6b7391ad,61ba466f4a8921968264,8,6,8,8,8,74.0
+poster,70,La Bohème,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,def5fa86bf8bc118edf06404b645184d33bda43bac0f9b3b4a4b83cb6b7391ad,61ba466f4a8921968264,8,6,8,8,8,74.0
+poster,70,La Bohème,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,def5fa86bf8bc118edf06404b645184d33bda43bac0f9b3b4a4b83cb6b7391ad,61ba466f4a8921968264,8,6,8,8,8,74.0
+poster,70,La Bohème,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,def5fa86bf8bc118edf06404b645184d33bda43bac0f9b3b4a4b83cb6b7391ad,61ba466f4a8921968264,8,6,6,8,8,71.0
+poster,71,Hygieneartikel,reference,Award-winning works,gpt-6.1-sol,7e5da60d22c8bd9d91f3d78b8c8ded9be136a73aaef6b6b5d3ed5fb8a5927896,2b1a66fe114334094d06,9,8,7,9,8,82.5
+poster,71,Hygieneartikel,artark,ArtArk,gpt-6.1-sol,7e5da60d22c8bd9d91f3d78b8c8ded9be136a73aaef6b6b5d3ed5fb8a5927896,2b1a66fe114334094d06,8,6,8,8,8,74.0
+poster,71,Hygieneartikel,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,7e5da60d22c8bd9d91f3d78b8c8ded9be136a73aaef6b6b5d3ed5fb8a5927896,2b1a66fe114334094d06,9,7,9,8,9,82.0
+poster,71,Hygieneartikel,gpt-image-2,GPT-Image-2,gpt-6.1-sol,7e5da60d22c8bd9d91f3d78b8c8ded9be136a73aaef6b6b5d3ed5fb8a5927896,2b1a66fe114334094d06,8,6,8,8,9,75.5
+poster,71,Hygieneartikel,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,7e5da60d22c8bd9d91f3d78b8c8ded9be136a73aaef6b6b5d3ed5fb8a5927896,2b1a66fe114334094d06,8,6,8,8,8,74.0
+poster,71,Hygieneartikel,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,7e5da60d22c8bd9d91f3d78b8c8ded9be136a73aaef6b6b5d3ed5fb8a5927896,2b1a66fe114334094d06,8,6,8,8,8,74.0
+poster,71,Hygieneartikel,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,7e5da60d22c8bd9d91f3d78b8c8ded9be136a73aaef6b6b5d3ed5fb8a5927896,2b1a66fe114334094d06,8,6,8,8,8,74.0
+poster,72,Rathausgalerie,reference,Award-winning works,gpt-6.1-sol,f8ffa9fc89ad0e586cde55ce12519a280a946f2ca5e6f9145b03ca2f09a7703a,366ac91f97bed529a333,8,8,8,8,9,81.5
+poster,72,Rathausgalerie,artark,ArtArk,gpt-6.1-sol,f8ffa9fc89ad0e586cde55ce12519a280a946f2ca5e6f9145b03ca2f09a7703a,366ac91f97bed529a333,8,7,8,8,8,77.0
+poster,72,Rathausgalerie,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,f8ffa9fc89ad0e586cde55ce12519a280a946f2ca5e6f9145b03ca2f09a7703a,366ac91f97bed529a333,8,6,8,8,8,74.0
+poster,72,Rathausgalerie,gpt-image-2,GPT-Image-2,gpt-6.1-sol,f8ffa9fc89ad0e586cde55ce12519a280a946f2ca5e6f9145b03ca2f09a7703a,366ac91f97bed529a333,7,6,8,8,8,72.0
+poster,72,Rathausgalerie,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,f8ffa9fc89ad0e586cde55ce12519a280a946f2ca5e6f9145b03ca2f09a7703a,366ac91f97bed529a333,8,7,9,8,9,80.0
+poster,72,Rathausgalerie,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,f8ffa9fc89ad0e586cde55ce12519a280a946f2ca5e6f9145b03ca2f09a7703a,366ac91f97bed529a333,8,8,7,8,8,78.5
+poster,72,Rathausgalerie,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,f8ffa9fc89ad0e586cde55ce12519a280a946f2ca5e6f9145b03ca2f09a7703a,366ac91f97bed529a333,7,6,8,8,7,70.5
+poster,73,Il Trittico,reference,Award-winning works,gpt-6.1-sol,7e0e4f3cfcca15743a3dd9d2465c937d1c3b8cafaec54580792f6e1a9bfa10dc,19a12ec9e8a154485bc2,8,8,7,8,8,78.5
+poster,73,Il Trittico,artark,ArtArk,gpt-6.1-sol,7e0e4f3cfcca15743a3dd9d2465c937d1c3b8cafaec54580792f6e1a9bfa10dc,19a12ec9e8a154485bc2,8,8,9,8,9,83.0
+poster,73,Il Trittico,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,7e0e4f3cfcca15743a3dd9d2465c937d1c3b8cafaec54580792f6e1a9bfa10dc,19a12ec9e8a154485bc2,8,6,8,8,8,74.0
+poster,73,Il Trittico,gpt-image-2,GPT-Image-2,gpt-6.1-sol,7e0e4f3cfcca15743a3dd9d2465c937d1c3b8cafaec54580792f6e1a9bfa10dc,19a12ec9e8a154485bc2,8,6,8,8,8,74.0
+poster,73,Il Trittico,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,7e0e4f3cfcca15743a3dd9d2465c937d1c3b8cafaec54580792f6e1a9bfa10dc,19a12ec9e8a154485bc2,8,6,9,8,8,75.5
+poster,73,Il Trittico,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,7e0e4f3cfcca15743a3dd9d2465c937d1c3b8cafaec54580792f6e1a9bfa10dc,19a12ec9e8a154485bc2,8,7,8,8,8,77.0
+poster,73,Il Trittico,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,7e0e4f3cfcca15743a3dd9d2465c937d1c3b8cafaec54580792f6e1a9bfa10dc,19a12ec9e8a154485bc2,8,6,8,8,7,72.5
+poster,74,SCHNÄLL,reference,Award-winning works,gpt-6.1-sol,af9b941918202b66201ea783b53aa62e9ffd018eb2e0771f7a8e53cb9df2bc2f,4107ef2888f507c3b070,8,8,7,8,8,78.5
+poster,74,SCHNÄLL,artark,ArtArk,gpt-6.1-sol,af9b941918202b66201ea783b53aa62e9ffd018eb2e0771f7a8e53cb9df2bc2f,4107ef2888f507c3b070,9,8,8,8,9,83.5
+poster,74,SCHNÄLL,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,af9b941918202b66201ea783b53aa62e9ffd018eb2e0771f7a8e53cb9df2bc2f,4107ef2888f507c3b070,9,7,8,8,8,79.0
+poster,74,SCHNÄLL,gpt-image-2,GPT-Image-2,gpt-6.1-sol,af9b941918202b66201ea783b53aa62e9ffd018eb2e0771f7a8e53cb9df2bc2f,4107ef2888f507c3b070,8,7,8,8,8,77.0
+poster,74,SCHNÄLL,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,af9b941918202b66201ea783b53aa62e9ffd018eb2e0771f7a8e53cb9df2bc2f,4107ef2888f507c3b070,8,7,8,8,8,77.0
+poster,74,SCHNÄLL,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,af9b941918202b66201ea783b53aa62e9ffd018eb2e0771f7a8e53cb9df2bc2f,4107ef2888f507c3b070,8,7,8,8,8,77.0
+poster,74,SCHNÄLL,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,af9b941918202b66201ea783b53aa62e9ffd018eb2e0771f7a8e53cb9df2bc2f,4107ef2888f507c3b070,8,7,8,8,8,77.0
+poster,75,Jolanda Spiess-Hegglin & Hansi Voigt lesen aus „Meistgeklickt“,reference,Award-winning works,gpt-6.1-sol,c75ea2b90fb44f05ecab6d286f197fa2cc8cdb6c563f1034b55cd50dc88dd72e,463b3fb63cc490a1dbef,8,8,6,8,8,77.0
+poster,75,Jolanda Spiess-Hegglin & Hansi Voigt lesen aus „Meistgeklickt“,artark,ArtArk,gpt-6.1-sol,c75ea2b90fb44f05ecab6d286f197fa2cc8cdb6c563f1034b55cd50dc88dd72e,463b3fb63cc490a1dbef,9,8,8,8,9,83.5
+poster,75,Jolanda Spiess-Hegglin & Hansi Voigt lesen aus „Meistgeklickt“,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,c75ea2b90fb44f05ecab6d286f197fa2cc8cdb6c563f1034b55cd50dc88dd72e,463b3fb63cc490a1dbef,8,6,8,8,8,74.0
+poster,75,Jolanda Spiess-Hegglin & Hansi Voigt lesen aus „Meistgeklickt“,gpt-image-2,GPT-Image-2,gpt-6.1-sol,c75ea2b90fb44f05ecab6d286f197fa2cc8cdb6c563f1034b55cd50dc88dd72e,463b3fb63cc490a1dbef,8,6,8,8,8,74.0
+poster,75,Jolanda Spiess-Hegglin & Hansi Voigt lesen aus „Meistgeklickt“,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,c75ea2b90fb44f05ecab6d286f197fa2cc8cdb6c563f1034b55cd50dc88dd72e,463b3fb63cc490a1dbef,7,5,8,7,8,67.0
+poster,75,Jolanda Spiess-Hegglin & Hansi Voigt lesen aus „Meistgeklickt“,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,c75ea2b90fb44f05ecab6d286f197fa2cc8cdb6c563f1034b55cd50dc88dd72e,463b3fb63cc490a1dbef,8,6,7,8,8,72.5
+poster,75,Jolanda Spiess-Hegglin & Hansi Voigt lesen aus „Meistgeklickt“,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,c75ea2b90fb44f05ecab6d286f197fa2cc8cdb6c563f1034b55cd50dc88dd72e,463b3fb63cc490a1dbef,8,7,7,8,8,75.5
+poster,76,Homage to Kari Piippo,reference,Award-winning works,gpt-6.1-sol,5747998693b70d381717dcc97cd3f55cc99949c174221203815ed778152b24e7,69830e31baf34e509271,9,8,8,9,9,85.5
+poster,76,Homage to Kari Piippo,artark,ArtArk,gpt-6.1-sol,5747998693b70d381717dcc97cd3f55cc99949c174221203815ed778152b24e7,69830e31baf34e509271,8,7,8,8,8,77.0
+poster,76,Homage to Kari Piippo,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,5747998693b70d381717dcc97cd3f55cc99949c174221203815ed778152b24e7,69830e31baf34e509271,7,5,8,8,8,69.0
+poster,76,Homage to Kari Piippo,gpt-image-2,GPT-Image-2,gpt-6.1-sol,5747998693b70d381717dcc97cd3f55cc99949c174221203815ed778152b24e7,69830e31baf34e509271,8,5,8,8,8,71.0
+poster,76,Homage to Kari Piippo,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,5747998693b70d381717dcc97cd3f55cc99949c174221203815ed778152b24e7,69830e31baf34e509271,6,5,8,7,8,65.0
+poster,76,Homage to Kari Piippo,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,5747998693b70d381717dcc97cd3f55cc99949c174221203815ed778152b24e7,69830e31baf34e509271,8,6,8,8,8,74.0
+poster,76,Homage to Kari Piippo,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,5747998693b70d381717dcc97cd3f55cc99949c174221203815ed778152b24e7,69830e31baf34e509271,7,5,8,7,7,65.5
+poster,77,Sonic Matter Festival 2025,reference,Award-winning works,gpt-6.1-sol,b78ed98575f9e9528f6d356c4e384a547e89d7f36b2c38538bdaa4d84562c186,00379c7835c469111f27,8,7,8,8,8,77.0
+poster,77,Sonic Matter Festival 2025,artark,ArtArk,gpt-6.1-sol,b78ed98575f9e9528f6d356c4e384a547e89d7f36b2c38538bdaa4d84562c186,00379c7835c469111f27,8,7,8,8,9,78.5
+poster,77,Sonic Matter Festival 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,b78ed98575f9e9528f6d356c4e384a547e89d7f36b2c38538bdaa4d84562c186,00379c7835c469111f27,8,7,8,8,8,77.0
+poster,77,Sonic Matter Festival 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,b78ed98575f9e9528f6d356c4e384a547e89d7f36b2c38538bdaa4d84562c186,00379c7835c469111f27,8,7,8,8,8,77.0
+poster,77,Sonic Matter Festival 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,b78ed98575f9e9528f6d356c4e384a547e89d7f36b2c38538bdaa4d84562c186,00379c7835c469111f27,8,7,8,8,8,77.0
+poster,77,Sonic Matter Festival 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,b78ed98575f9e9528f6d356c4e384a547e89d7f36b2c38538bdaa4d84562c186,00379c7835c469111f27,8,6,7,8,8,72.5
+poster,77,Sonic Matter Festival 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,b78ed98575f9e9528f6d356c4e384a547e89d7f36b2c38538bdaa4d84562c186,00379c7835c469111f27,8,8,7,8,7,77.0
+poster,78,"Théâtre populaire romand, Saison 2025/26",reference,Award-winning works,gpt-6.1-sol,5676e4ec26ebd8101de1ac568cf391a5fd0ac0e8788dfcc50d3dc05457f1fc67,33a2a3c1a511ad562fce,8,7,7,8,8,75.5
+poster,78,"Théâtre populaire romand, Saison 2025/26",artark,ArtArk,gpt-6.1-sol,5676e4ec26ebd8101de1ac568cf391a5fd0ac0e8788dfcc50d3dc05457f1fc67,33a2a3c1a511ad562fce,8,7,8,8,8,77.0
+poster,78,"Théâtre populaire romand, Saison 2025/26",gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,5676e4ec26ebd8101de1ac568cf391a5fd0ac0e8788dfcc50d3dc05457f1fc67,33a2a3c1a511ad562fce,8,6,8,8,8,74.0
+poster,78,"Théâtre populaire romand, Saison 2025/26",gpt-image-2,GPT-Image-2,gpt-6.1-sol,5676e4ec26ebd8101de1ac568cf391a5fd0ac0e8788dfcc50d3dc05457f1fc67,33a2a3c1a511ad562fce,8,7,8,8,8,77.0
+poster,78,"Théâtre populaire romand, Saison 2025/26",gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,5676e4ec26ebd8101de1ac568cf391a5fd0ac0e8788dfcc50d3dc05457f1fc67,33a2a3c1a511ad562fce,8,6,8,8,8,74.0
+poster,78,"Théâtre populaire romand, Saison 2025/26",nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,5676e4ec26ebd8101de1ac568cf391a5fd0ac0e8788dfcc50d3dc05457f1fc67,33a2a3c1a511ad562fce,8,6,8,8,8,74.0
+poster,78,"Théâtre populaire romand, Saison 2025/26",doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,5676e4ec26ebd8101de1ac568cf391a5fd0ac0e8788dfcc50d3dc05457f1fc67,33a2a3c1a511ad562fce,8,6,7,8,7,71.0
+poster,79,Verleihung von Kultur- und Förderpreis und Goldener Ehrenmedaille 2025 des Kantons Zürich,reference,Award-winning works,gpt-6.1-sol,8a8b6f69e16b8060f10bb9b57e84b58d8581fed118e4922eed8030060dd679b5,e18697804c2f63446435,7,8,6,8,8,75.0
+poster,79,Verleihung von Kultur- und Förderpreis und Goldener Ehrenmedaille 2025 des Kantons Zürich,artark,ArtArk,gpt-6.1-sol,8a8b6f69e16b8060f10bb9b57e84b58d8581fed118e4922eed8030060dd679b5,e18697804c2f63446435,8,6,8,8,8,74.0
+poster,79,Verleihung von Kultur- und Förderpreis und Goldener Ehrenmedaille 2025 des Kantons Zürich,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,8a8b6f69e16b8060f10bb9b57e84b58d8581fed118e4922eed8030060dd679b5,e18697804c2f63446435,8,6,8,8,8,74.0
+poster,79,Verleihung von Kultur- und Förderpreis und Goldener Ehrenmedaille 2025 des Kantons Zürich,gpt-image-2,GPT-Image-2,gpt-6.1-sol,8a8b6f69e16b8060f10bb9b57e84b58d8581fed118e4922eed8030060dd679b5,e18697804c2f63446435,8,5,8,7,8,69.0
+poster,79,Verleihung von Kultur- und Förderpreis und Goldener Ehrenmedaille 2025 des Kantons Zürich,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,8a8b6f69e16b8060f10bb9b57e84b58d8581fed118e4922eed8030060dd679b5,e18697804c2f63446435,8,6,8,8,8,74.0
+poster,79,Verleihung von Kultur- und Förderpreis und Goldener Ehrenmedaille 2025 des Kantons Zürich,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,8a8b6f69e16b8060f10bb9b57e84b58d8581fed118e4922eed8030060dd679b5,e18697804c2f63446435,8,6,7,8,7,71.0
+poster,79,Verleihung von Kultur- und Förderpreis und Goldener Ehrenmedaille 2025 des Kantons Zürich,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,8a8b6f69e16b8060f10bb9b57e84b58d8581fed118e4922eed8030060dd679b5,e18697804c2f63446435,7,5,7,7,7,64.0
+poster,80,Unsere Klimaziele,reference,Award-winning works,gpt-6.1-sol,ff7691a8e1c38572b51592e8cb57a136a750dc53298426ce18cafdb1070b138c,29ebc317bbb574e57aaf,8,8,6,8,7,75.5
+poster,80,Unsere Klimaziele,artark,ArtArk,gpt-6.1-sol,ff7691a8e1c38572b51592e8cb57a136a750dc53298426ce18cafdb1070b138c,29ebc317bbb574e57aaf,8,7,9,8,9,80.0
+poster,80,Unsere Klimaziele,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,ff7691a8e1c38572b51592e8cb57a136a750dc53298426ce18cafdb1070b138c,29ebc317bbb574e57aaf,8,5,8,8,8,71.0
+poster,80,Unsere Klimaziele,gpt-image-2,GPT-Image-2,gpt-6.1-sol,ff7691a8e1c38572b51592e8cb57a136a750dc53298426ce18cafdb1070b138c,29ebc317bbb574e57aaf,8,6,8,8,8,74.0
+poster,80,Unsere Klimaziele,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,ff7691a8e1c38572b51592e8cb57a136a750dc53298426ce18cafdb1070b138c,29ebc317bbb574e57aaf,7,5,8,8,8,69.0
+poster,80,Unsere Klimaziele,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,ff7691a8e1c38572b51592e8cb57a136a750dc53298426ce18cafdb1070b138c,29ebc317bbb574e57aaf,8,5,7,7,8,67.5
+poster,80,Unsere Klimaziele,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,ff7691a8e1c38572b51592e8cb57a136a750dc53298426ce18cafdb1070b138c,29ebc317bbb574e57aaf,8,5,8,7,8,69.0
+poster,81,Sorry Helvetica,reference,Award-winning works,gpt-6.1-sol,73fb0180f14a54a675e1a232a728b294d7191b85cea77b8da7949a01f2c4bd64,96e8e0694d032b80c95a,8,8,7,9,8,80.5
+poster,81,Sorry Helvetica,artark,ArtArk,gpt-6.1-sol,73fb0180f14a54a675e1a232a728b294d7191b85cea77b8da7949a01f2c4bd64,96e8e0694d032b80c95a,8,8,8,9,8,82.0
+poster,81,Sorry Helvetica,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,73fb0180f14a54a675e1a232a728b294d7191b85cea77b8da7949a01f2c4bd64,96e8e0694d032b80c95a,9,7,8,9,9,82.5
+poster,81,Sorry Helvetica,gpt-image-2,GPT-Image-2,gpt-6.1-sol,73fb0180f14a54a675e1a232a728b294d7191b85cea77b8da7949a01f2c4bd64,96e8e0694d032b80c95a,8,7,8,8,8,77.0
+poster,81,Sorry Helvetica,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,73fb0180f14a54a675e1a232a728b294d7191b85cea77b8da7949a01f2c4bd64,96e8e0694d032b80c95a,8,7,8,8,8,77.0
+poster,81,Sorry Helvetica,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,73fb0180f14a54a675e1a232a728b294d7191b85cea77b8da7949a01f2c4bd64,96e8e0694d032b80c95a,8,7,8,8,8,77.0
+poster,81,Sorry Helvetica,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,73fb0180f14a54a675e1a232a728b294d7191b85cea77b8da7949a01f2c4bd64,96e8e0694d032b80c95a,8,7,8,8,8,77.0
+poster,82,Umdenken,reference,Award-winning works,gpt-6.1-sol,a9122f61634e6bfce50e1db05add12e4e2c82dcf0dce18f6a70fec79869b7f52,b710168440ab4e6020d1,8,8,8,9,9,83.5
+poster,82,Umdenken,artark,ArtArk,gpt-6.1-sol,a9122f61634e6bfce50e1db05add12e4e2c82dcf0dce18f6a70fec79869b7f52,b710168440ab4e6020d1,8,7,9,8,9,80.0
+poster,82,Umdenken,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,a9122f61634e6bfce50e1db05add12e4e2c82dcf0dce18f6a70fec79869b7f52,b710168440ab4e6020d1,8,6,8,8,8,74.0
+poster,82,Umdenken,gpt-image-2,GPT-Image-2,gpt-6.1-sol,a9122f61634e6bfce50e1db05add12e4e2c82dcf0dce18f6a70fec79869b7f52,b710168440ab4e6020d1,8,7,8,8,8,77.0
+poster,82,Umdenken,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,a9122f61634e6bfce50e1db05add12e4e2c82dcf0dce18f6a70fec79869b7f52,b710168440ab4e6020d1,8,6,8,7,8,72.0
+poster,82,Umdenken,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,a9122f61634e6bfce50e1db05add12e4e2c82dcf0dce18f6a70fec79869b7f52,b710168440ab4e6020d1,8,7,8,8,8,77.0
+poster,82,Umdenken,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,a9122f61634e6bfce50e1db05add12e4e2c82dcf0dce18f6a70fec79869b7f52,b710168440ab4e6020d1,6,5,7,7,7,62.0
+poster,83,Weltformat Graphic Design Festival 2025,reference,Award-winning works,gpt-6.1-sol,ff1bb6e102e7c711f5fa2869b965247a33e2f31e7a95b4e33edb83df27c60c6d,fccdc736be9e129529f7,8,8,7,8,8,78.5
+poster,83,Weltformat Graphic Design Festival 2025,artark,ArtArk,gpt-6.1-sol,ff1bb6e102e7c711f5fa2869b965247a33e2f31e7a95b4e33edb83df27c60c6d,fccdc736be9e129529f7,8,7,9,8,9,80.0
+poster,83,Weltformat Graphic Design Festival 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,ff1bb6e102e7c711f5fa2869b965247a33e2f31e7a95b4e33edb83df27c60c6d,fccdc736be9e129529f7,8,6,8,8,8,74.0
+poster,83,Weltformat Graphic Design Festival 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,ff1bb6e102e7c711f5fa2869b965247a33e2f31e7a95b4e33edb83df27c60c6d,fccdc736be9e129529f7,8,7,8,8,8,77.0
+poster,83,Weltformat Graphic Design Festival 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,ff1bb6e102e7c711f5fa2869b965247a33e2f31e7a95b4e33edb83df27c60c6d,fccdc736be9e129529f7,8,6,8,8,8,74.0
+poster,83,Weltformat Graphic Design Festival 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,ff1bb6e102e7c711f5fa2869b965247a33e2f31e7a95b4e33edb83df27c60c6d,fccdc736be9e129529f7,8,7,8,8,8,77.0
+poster,83,Weltformat Graphic Design Festival 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,ff1bb6e102e7c711f5fa2869b965247a33e2f31e7a95b4e33edb83df27c60c6d,fccdc736be9e129529f7,8,6,8,8,8,74.0
+poster,84,"Unus pro omnibus, omnes pro uno",reference,Award-winning works,gpt-6.1-sol,7ebb293d44b4037dea2690ac2c0f5e1c125712123695dc5beeec40d124a07711,03c262e591db1b6124d3,8,7,6,8,8,74.0
+poster,84,"Unus pro omnibus, omnes pro uno",artark,ArtArk,gpt-6.1-sol,7ebb293d44b4037dea2690ac2c0f5e1c125712123695dc5beeec40d124a07711,03c262e591db1b6124d3,8,7,8,8,9,78.5
+poster,84,"Unus pro omnibus, omnes pro uno",gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,7ebb293d44b4037dea2690ac2c0f5e1c125712123695dc5beeec40d124a07711,03c262e591db1b6124d3,8,6,8,8,8,74.0
+poster,84,"Unus pro omnibus, omnes pro uno",gpt-image-2,GPT-Image-2,gpt-6.1-sol,7ebb293d44b4037dea2690ac2c0f5e1c125712123695dc5beeec40d124a07711,03c262e591db1b6124d3,8,6,7,8,8,72.5
+poster,84,"Unus pro omnibus, omnes pro uno",gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,7ebb293d44b4037dea2690ac2c0f5e1c125712123695dc5beeec40d124a07711,03c262e591db1b6124d3,8,6,8,8,8,74.0
+poster,84,"Unus pro omnibus, omnes pro uno",nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,7ebb293d44b4037dea2690ac2c0f5e1c125712123695dc5beeec40d124a07711,03c262e591db1b6124d3,8,7,8,8,7,75.5
+poster,84,"Unus pro omnibus, omnes pro uno",doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,7ebb293d44b4037dea2690ac2c0f5e1c125712123695dc5beeec40d124a07711,03c262e591db1b6124d3,7,5,7,8,6,64.5
+poster,85,Théâtre Am Stram Gram,reference,Award-winning works,gpt-6.1-sol,9c24a1854cf2f39c6818b2952f90a3eb91ad7b69b026ee7f45db6744db17514c,61a664fad41c7c683fa1,8,8,8,8,8,80.0
+poster,85,Théâtre Am Stram Gram,artark,ArtArk,gpt-6.1-sol,9c24a1854cf2f39c6818b2952f90a3eb91ad7b69b026ee7f45db6744db17514c,61a664fad41c7c683fa1,9,8,8,8,9,83.5
+poster,85,Théâtre Am Stram Gram,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,9c24a1854cf2f39c6818b2952f90a3eb91ad7b69b026ee7f45db6744db17514c,61a664fad41c7c683fa1,8,6,8,8,8,74.0
+poster,85,Théâtre Am Stram Gram,gpt-image-2,GPT-Image-2,gpt-6.1-sol,9c24a1854cf2f39c6818b2952f90a3eb91ad7b69b026ee7f45db6744db17514c,61a664fad41c7c683fa1,8,6,8,8,8,74.0
+poster,85,Théâtre Am Stram Gram,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,9c24a1854cf2f39c6818b2952f90a3eb91ad7b69b026ee7f45db6744db17514c,61a664fad41c7c683fa1,8,6,8,8,8,74.0
+poster,85,Théâtre Am Stram Gram,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,9c24a1854cf2f39c6818b2952f90a3eb91ad7b69b026ee7f45db6744db17514c,61a664fad41c7c683fa1,8,6,8,8,8,74.0
+poster,85,Théâtre Am Stram Gram,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,9c24a1854cf2f39c6818b2952f90a3eb91ad7b69b026ee7f45db6744db17514c,61a664fad41c7c683fa1,8,6,8,8,8,74.0
+poster,86,Start in 1 Minute,reference,Award-winning works,gpt-6.1-sol,702794e3565642ce070fd1309efd09e95b54d02dbe313fb480a6af2a2ef56ab4,cb9156e3ea5a59de23cb,8,8,7,8,8,78.5
+poster,86,Start in 1 Minute,artark,ArtArk,gpt-6.1-sol,702794e3565642ce070fd1309efd09e95b54d02dbe313fb480a6af2a2ef56ab4,cb9156e3ea5a59de23cb,8,8,9,9,8,83.5
+poster,86,Start in 1 Minute,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,702794e3565642ce070fd1309efd09e95b54d02dbe313fb480a6af2a2ef56ab4,cb9156e3ea5a59de23cb,8,6,8,8,8,74.0
+poster,86,Start in 1 Minute,gpt-image-2,GPT-Image-2,gpt-6.1-sol,702794e3565642ce070fd1309efd09e95b54d02dbe313fb480a6af2a2ef56ab4,cb9156e3ea5a59de23cb,8,7,8,8,8,77.0
+poster,86,Start in 1 Minute,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,702794e3565642ce070fd1309efd09e95b54d02dbe313fb480a6af2a2ef56ab4,cb9156e3ea5a59de23cb,8,7,8,8,8,77.0
+poster,86,Start in 1 Minute,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,702794e3565642ce070fd1309efd09e95b54d02dbe313fb480a6af2a2ef56ab4,cb9156e3ea5a59de23cb,8,6,8,8,8,74.0
+poster,86,Start in 1 Minute,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,702794e3565642ce070fd1309efd09e95b54d02dbe313fb480a6af2a2ef56ab4,cb9156e3ea5a59de23cb,8,7,8,8,8,77.0
+poster,87,Vanessa Safavi: Metaphors of Gravity,reference,Award-winning works,gpt-6.1-sol,b60f3887a2002b60f8daa9e66215a9695e43367b91bb4e074bf0849a8f0c0290,2565e192d03e5bd639e7,8,8,6,8,7,75.5
+poster,87,Vanessa Safavi: Metaphors of Gravity,artark,ArtArk,gpt-6.1-sol,b60f3887a2002b60f8daa9e66215a9695e43367b91bb4e074bf0849a8f0c0290,2565e192d03e5bd639e7,8,7,8,8,8,77.0
+poster,87,Vanessa Safavi: Metaphors of Gravity,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,b60f3887a2002b60f8daa9e66215a9695e43367b91bb4e074bf0849a8f0c0290,2565e192d03e5bd639e7,8,7,9,8,9,80.0
+poster,87,Vanessa Safavi: Metaphors of Gravity,gpt-image-2,GPT-Image-2,gpt-6.1-sol,b60f3887a2002b60f8daa9e66215a9695e43367b91bb4e074bf0849a8f0c0290,2565e192d03e5bd639e7,9,7,8,8,9,80.5
+poster,87,Vanessa Safavi: Metaphors of Gravity,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,b60f3887a2002b60f8daa9e66215a9695e43367b91bb4e074bf0849a8f0c0290,2565e192d03e5bd639e7,8,8,9,9,9,85.0
+poster,87,Vanessa Safavi: Metaphors of Gravity,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,b60f3887a2002b60f8daa9e66215a9695e43367b91bb4e074bf0849a8f0c0290,2565e192d03e5bd639e7,8,7,8,8,8,77.0
+poster,87,Vanessa Safavi: Metaphors of Gravity,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,b60f3887a2002b60f8daa9e66215a9695e43367b91bb4e074bf0849a8f0c0290,2565e192d03e5bd639e7,8,8,8,9,8,82.0
+poster,88,Sinfoniekonzerte Spielzeit 2025/26,reference,Award-winning works,gpt-6.1-sol,8bb2494e5afa844f45b8be05ce85fbc64fb9cb2e5ac6364fdae51f5902e8b749,5b2204449daa7c5a28e5,8,8,7,8,9,80.0
+poster,88,Sinfoniekonzerte Spielzeit 2025/26,artark,ArtArk,gpt-6.1-sol,8bb2494e5afa844f45b8be05ce85fbc64fb9cb2e5ac6364fdae51f5902e8b749,5b2204449daa7c5a28e5,8,6,8,8,8,74.0
+poster,88,Sinfoniekonzerte Spielzeit 2025/26,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,8bb2494e5afa844f45b8be05ce85fbc64fb9cb2e5ac6364fdae51f5902e8b749,5b2204449daa7c5a28e5,8,6,8,8,8,74.0
+poster,88,Sinfoniekonzerte Spielzeit 2025/26,gpt-image-2,GPT-Image-2,gpt-6.1-sol,8bb2494e5afa844f45b8be05ce85fbc64fb9cb2e5ac6364fdae51f5902e8b749,5b2204449daa7c5a28e5,8,6,8,8,8,74.0
+poster,88,Sinfoniekonzerte Spielzeit 2025/26,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,8bb2494e5afa844f45b8be05ce85fbc64fb9cb2e5ac6364fdae51f5902e8b749,5b2204449daa7c5a28e5,7,5,8,8,8,69.0
+poster,88,Sinfoniekonzerte Spielzeit 2025/26,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,8bb2494e5afa844f45b8be05ce85fbc64fb9cb2e5ac6364fdae51f5902e8b749,5b2204449daa7c5a28e5,7,5,6,8,8,66.0
+poster,88,Sinfoniekonzerte Spielzeit 2025/26,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,8bb2494e5afa844f45b8be05ce85fbc64fb9cb2e5ac6364fdae51f5902e8b749,5b2204449daa7c5a28e5,8,6,8,8,7,72.5
+poster,89,Swiss Overshoot Day 2025,reference,Award-winning works,gpt-6.1-sol,839982486e41f93f1848fddc8bd3e369a7c28df814d44837de7c505f5a8eeead,0d57244268e768854d7f,8,8,6,8,6,74.0
+poster,89,Swiss Overshoot Day 2025,artark,ArtArk,gpt-6.1-sol,839982486e41f93f1848fddc8bd3e369a7c28df814d44837de7c505f5a8eeead,0d57244268e768854d7f,9,8,9,8,9,85.0
+poster,89,Swiss Overshoot Day 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,839982486e41f93f1848fddc8bd3e369a7c28df814d44837de7c505f5a8eeead,0d57244268e768854d7f,8,7,8,8,8,77.0
+poster,89,Swiss Overshoot Day 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,839982486e41f93f1848fddc8bd3e369a7c28df814d44837de7c505f5a8eeead,0d57244268e768854d7f,8,6,8,8,8,74.0
+poster,89,Swiss Overshoot Day 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,839982486e41f93f1848fddc8bd3e369a7c28df814d44837de7c505f5a8eeead,0d57244268e768854d7f,8,5,8,7,8,69.0
+poster,89,Swiss Overshoot Day 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,839982486e41f93f1848fddc8bd3e369a7c28df814d44837de7c505f5a8eeead,0d57244268e768854d7f,8,7,8,8,8,77.0
+poster,89,Swiss Overshoot Day 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,839982486e41f93f1848fddc8bd3e369a7c28df814d44837de7c505f5a8eeead,0d57244268e768854d7f,8,6,7,8,7,71.0
+poster,90,Zürcher Theater Spektakel ’25,reference,Award-winning works,gpt-6.1-sol,e605169302fd5900028e322536066af74825f4f028d9dd18fe372368590b7199,e0583bbc8a4fcada1897,8,8,7,8,8,78.5
+poster,90,Zürcher Theater Spektakel ’25,artark,ArtArk,gpt-6.1-sol,e605169302fd5900028e322536066af74825f4f028d9dd18fe372368590b7199,e0583bbc8a4fcada1897,8,7,8,8,8,77.0
+poster,90,Zürcher Theater Spektakel ’25,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,e605169302fd5900028e322536066af74825f4f028d9dd18fe372368590b7199,e0583bbc8a4fcada1897,8,6,8,8,8,74.0
+poster,90,Zürcher Theater Spektakel ’25,gpt-image-2,GPT-Image-2,gpt-6.1-sol,e605169302fd5900028e322536066af74825f4f028d9dd18fe372368590b7199,e0583bbc8a4fcada1897,8,6,8,8,8,74.0
+poster,90,Zürcher Theater Spektakel ’25,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,e605169302fd5900028e322536066af74825f4f028d9dd18fe372368590b7199,e0583bbc8a4fcada1897,8,6,8,8,8,74.0
+poster,90,Zürcher Theater Spektakel ’25,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,e605169302fd5900028e322536066af74825f4f028d9dd18fe372368590b7199,e0583bbc8a4fcada1897,8,6,7,8,8,72.5
+poster,90,Zürcher Theater Spektakel ’25,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,e605169302fd5900028e322536066af74825f4f028d9dd18fe372368590b7199,e0583bbc8a4fcada1897,8,6,7,8,7,71.0
+poster,91,Spielzeit 2025/26,reference,Award-winning works,gpt-6.1-sol,0f90f741e6a9ef8fc6a405b3492812f1180e34b5d146ecda54b1b3e5c6b58d3d,3839542d2aa930a74ae2,8,8,7,9,8,80.5
+poster,91,Spielzeit 2025/26,artark,ArtArk,gpt-6.1-sol,0f90f741e6a9ef8fc6a405b3492812f1180e34b5d146ecda54b1b3e5c6b58d3d,3839542d2aa930a74ae2,8,7,9,8,8,78.5
+poster,91,Spielzeit 2025/26,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,0f90f741e6a9ef8fc6a405b3492812f1180e34b5d146ecda54b1b3e5c6b58d3d,3839542d2aa930a74ae2,8,7,8,8,8,77.0
+poster,91,Spielzeit 2025/26,gpt-image-2,GPT-Image-2,gpt-6.1-sol,0f90f741e6a9ef8fc6a405b3492812f1180e34b5d146ecda54b1b3e5c6b58d3d,3839542d2aa930a74ae2,8,6,8,8,8,74.0
+poster,91,Spielzeit 2025/26,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,0f90f741e6a9ef8fc6a405b3492812f1180e34b5d146ecda54b1b3e5c6b58d3d,3839542d2aa930a74ae2,8,6,8,8,8,74.0
+poster,91,Spielzeit 2025/26,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,0f90f741e6a9ef8fc6a405b3492812f1180e34b5d146ecda54b1b3e5c6b58d3d,3839542d2aa930a74ae2,8,7,7,8,8,75.5
+poster,91,Spielzeit 2025/26,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,0f90f741e6a9ef8fc6a405b3492812f1180e34b5d146ecda54b1b3e5c6b58d3d,3839542d2aa930a74ae2,8,7,8,8,7,75.5
+poster,92,Widerstand,reference,Award-winning works,gpt-6.1-sol,36c3a84b42f3f986238a6d80d9f167e2ffa9b9272de752fa130f7c0e9ffddacc,e0f80259351ab65c84db,7,8,6,8,8,75.0
+poster,92,Widerstand,artark,ArtArk,gpt-6.1-sol,36c3a84b42f3f986238a6d80d9f167e2ffa9b9272de752fa130f7c0e9ffddacc,e0f80259351ab65c84db,8,8,8,9,8,82.0
+poster,92,Widerstand,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,36c3a84b42f3f986238a6d80d9f167e2ffa9b9272de752fa130f7c0e9ffddacc,e0f80259351ab65c84db,8,6,8,8,8,74.0
+poster,92,Widerstand,gpt-image-2,GPT-Image-2,gpt-6.1-sol,36c3a84b42f3f986238a6d80d9f167e2ffa9b9272de752fa130f7c0e9ffddacc,e0f80259351ab65c84db,8,7,8,8,8,77.0
+poster,92,Widerstand,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,36c3a84b42f3f986238a6d80d9f167e2ffa9b9272de752fa130f7c0e9ffddacc,e0f80259351ab65c84db,8,6,9,8,8,75.5
+poster,92,Widerstand,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,36c3a84b42f3f986238a6d80d9f167e2ffa9b9272de752fa130f7c0e9ffddacc,e0f80259351ab65c84db,8,7,8,8,8,77.0
+poster,92,Widerstand,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,36c3a84b42f3f986238a6d80d9f167e2ffa9b9272de752fa130f7c0e9ffddacc,e0f80259351ab65c84db,8,7,8,8,8,77.0
+poster,93,Weekend en fanfare,reference,Award-winning works,gpt-6.1-sol,d60de3261a73ddade629f294e38e5b73c506d15b4558b83017019e26a43d6948,969ded84c76a5513f6ae,8,8,7,8,8,78.5
+poster,93,Weekend en fanfare,artark,ArtArk,gpt-6.1-sol,d60de3261a73ddade629f294e38e5b73c506d15b4558b83017019e26a43d6948,969ded84c76a5513f6ae,9,8,8,9,8,84.0
+poster,93,Weekend en fanfare,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,d60de3261a73ddade629f294e38e5b73c506d15b4558b83017019e26a43d6948,969ded84c76a5513f6ae,8,6,8,8,8,74.0
+poster,93,Weekend en fanfare,gpt-image-2,GPT-Image-2,gpt-6.1-sol,d60de3261a73ddade629f294e38e5b73c506d15b4558b83017019e26a43d6948,969ded84c76a5513f6ae,8,6,8,8,7,72.5
+poster,93,Weekend en fanfare,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,d60de3261a73ddade629f294e38e5b73c506d15b4558b83017019e26a43d6948,969ded84c76a5513f6ae,8,6,8,8,8,74.0
+poster,93,Weekend en fanfare,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,d60de3261a73ddade629f294e38e5b73c506d15b4558b83017019e26a43d6948,969ded84c76a5513f6ae,8,6,8,8,8,74.0
+poster,93,Weekend en fanfare,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,d60de3261a73ddade629f294e38e5b73c506d15b4558b83017019e26a43d6948,969ded84c76a5513f6ae,8,6,8,8,7,72.5
+poster,94,Sign of the Times,reference,Award-winning works,gpt-6.1-sol,6a09d46006f80d3687a22143d964493279297e2b2ccb9994ff84f9d072a92d1a,3df978a34d9c5cfe4212,8,6,9,8,8,75.5
+poster,94,Sign of the Times,artark,ArtArk,gpt-6.1-sol,6a09d46006f80d3687a22143d964493279297e2b2ccb9994ff84f9d072a92d1a,3df978a34d9c5cfe4212,9,7,9,8,9,82.0
+poster,94,Sign of the Times,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,6a09d46006f80d3687a22143d964493279297e2b2ccb9994ff84f9d072a92d1a,3df978a34d9c5cfe4212,9,6,9,8,9,79.0
+poster,94,Sign of the Times,gpt-image-2,GPT-Image-2,gpt-6.1-sol,6a09d46006f80d3687a22143d964493279297e2b2ccb9994ff84f9d072a92d1a,3df978a34d9c5cfe4212,8,6,8,8,8,74.0
+poster,94,Sign of the Times,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,6a09d46006f80d3687a22143d964493279297e2b2ccb9994ff84f9d072a92d1a,3df978a34d9c5cfe4212,8,6,8,8,8,74.0
+poster,94,Sign of the Times,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,6a09d46006f80d3687a22143d964493279297e2b2ccb9994ff84f9d072a92d1a,3df978a34d9c5cfe4212,8,6,8,8,8,74.0
+poster,94,Sign of the Times,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,6a09d46006f80d3687a22143d964493279297e2b2ccb9994ff84f9d072a92d1a,3df978a34d9c5cfe4212,8,6,8,8,7,72.5
+poster,95,Théâtre Kleber Méleau,reference,Award-winning works,gpt-6.1-sol,5b478b23aca43d4cc31128ce81f50a6e76fb216467e364848f5a30db2e06b086,7d0b3c373bded2175560,7,6,8,8,8,72.0
+poster,95,Théâtre Kleber Méleau,artark,ArtArk,gpt-6.1-sol,5b478b23aca43d4cc31128ce81f50a6e76fb216467e364848f5a30db2e06b086,7d0b3c373bded2175560,9,8,8,9,9,85.5
+poster,95,Théâtre Kleber Méleau,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,5b478b23aca43d4cc31128ce81f50a6e76fb216467e364848f5a30db2e06b086,7d0b3c373bded2175560,8,7,8,8,8,77.0
+poster,95,Théâtre Kleber Méleau,gpt-image-2,GPT-Image-2,gpt-6.1-sol,5b478b23aca43d4cc31128ce81f50a6e76fb216467e364848f5a30db2e06b086,7d0b3c373bded2175560,8,7,8,8,8,77.0
+poster,95,Théâtre Kleber Méleau,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,5b478b23aca43d4cc31128ce81f50a6e76fb216467e364848f5a30db2e06b086,7d0b3c373bded2175560,9,7,8,9,8,81.0
+poster,95,Théâtre Kleber Méleau,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,5b478b23aca43d4cc31128ce81f50a6e76fb216467e364848f5a30db2e06b086,7d0b3c373bded2175560,8,7,8,8,8,77.0
+poster,95,Théâtre Kleber Méleau,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,5b478b23aca43d4cc31128ce81f50a6e76fb216467e364848f5a30db2e06b086,7d0b3c373bded2175560,8,7,8,8,8,77.0
+poster,96,Window 2011 – 2022,reference,Award-winning works,gpt-6.1-sol,405ab819d2400e08481283d62fac70b45a5c91fa6f108ff9ea73dcb6def95e61,393c0cff50116b091229,8,7,7,8,8,75.5
+poster,96,Window 2011 – 2022,artark,ArtArk,gpt-6.1-sol,405ab819d2400e08481283d62fac70b45a5c91fa6f108ff9ea73dcb6def95e61,393c0cff50116b091229,8,6,8,8,8,74.0
+poster,96,Window 2011 – 2022,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,405ab819d2400e08481283d62fac70b45a5c91fa6f108ff9ea73dcb6def95e61,393c0cff50116b091229,8,6,8,8,8,74.0
+poster,96,Window 2011 – 2022,gpt-image-2,GPT-Image-2,gpt-6.1-sol,405ab819d2400e08481283d62fac70b45a5c91fa6f108ff9ea73dcb6def95e61,393c0cff50116b091229,8,6,8,8,8,74.0
+poster,96,Window 2011 – 2022,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,405ab819d2400e08481283d62fac70b45a5c91fa6f108ff9ea73dcb6def95e61,393c0cff50116b091229,8,6,8,8,8,74.0
+poster,96,Window 2011 – 2022,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,405ab819d2400e08481283d62fac70b45a5c91fa6f108ff9ea73dcb6def95e61,393c0cff50116b091229,8,7,8,8,8,77.0
+poster,96,Window 2011 – 2022,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,405ab819d2400e08481283d62fac70b45a5c91fa6f108ff9ea73dcb6def95e61,393c0cff50116b091229,8,6,7,8,8,72.5
+poster,97,Zentral- und Hochschulbibliothek Luzern,reference,Award-winning works,gpt-6.1-sol,f0d3081797d273d87f7014974f2586f14203149cdc83f903c5b0d073ca6269f0,e65f6dcb9037d697c81e,8,7,8,8,8,77.0
+poster,97,Zentral- und Hochschulbibliothek Luzern,artark,ArtArk,gpt-6.1-sol,f0d3081797d273d87f7014974f2586f14203149cdc83f903c5b0d073ca6269f0,e65f6dcb9037d697c81e,8,7,8,8,8,77.0
+poster,97,Zentral- und Hochschulbibliothek Luzern,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,f0d3081797d273d87f7014974f2586f14203149cdc83f903c5b0d073ca6269f0,e65f6dcb9037d697c81e,7,6,8,8,8,72.0
+poster,97,Zentral- und Hochschulbibliothek Luzern,gpt-image-2,GPT-Image-2,gpt-6.1-sol,f0d3081797d273d87f7014974f2586f14203149cdc83f903c5b0d073ca6269f0,e65f6dcb9037d697c81e,8,6,8,8,8,74.0
+poster,97,Zentral- und Hochschulbibliothek Luzern,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,f0d3081797d273d87f7014974f2586f14203149cdc83f903c5b0d073ca6269f0,e65f6dcb9037d697c81e,7,5,8,7,8,67.0
+poster,97,Zentral- und Hochschulbibliothek Luzern,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,f0d3081797d273d87f7014974f2586f14203149cdc83f903c5b0d073ca6269f0,e65f6dcb9037d697c81e,8,7,8,8,8,77.0
+poster,97,Zentral- und Hochschulbibliothek Luzern,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,f0d3081797d273d87f7014974f2586f14203149cdc83f903c5b0d073ca6269f0,e65f6dcb9037d697c81e,7,6,7,8,8,70.5
+poster,98,Tadanori Yokoo – Poster Art: Original Posters from 1965 – 2025,reference,Award-winning works,gpt-6.1-sol,a54a322dd1f3f32f4d4017722f601603719b3f78c38b3cb3521d0d3650a6961b,3c6c476f41ad1decc67c,8,8,7,9,8,80.5
+poster,98,Tadanori Yokoo – Poster Art: Original Posters from 1965 – 2025,artark,ArtArk,gpt-6.1-sol,a54a322dd1f3f32f4d4017722f601603719b3f78c38b3cb3521d0d3650a6961b,3c6c476f41ad1decc67c,9,8,8,9,9,85.5
+poster,98,Tadanori Yokoo – Poster Art: Original Posters from 1965 – 2025,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,a54a322dd1f3f32f4d4017722f601603719b3f78c38b3cb3521d0d3650a6961b,3c6c476f41ad1decc67c,8,7,8,9,8,79.0
+poster,98,Tadanori Yokoo – Poster Art: Original Posters from 1965 – 2025,gpt-image-2,GPT-Image-2,gpt-6.1-sol,a54a322dd1f3f32f4d4017722f601603719b3f78c38b3cb3521d0d3650a6961b,3c6c476f41ad1decc67c,8,7,8,9,8,79.0
+poster,98,Tadanori Yokoo – Poster Art: Original Posters from 1965 – 2025,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,a54a322dd1f3f32f4d4017722f601603719b3f78c38b3cb3521d0d3650a6961b,3c6c476f41ad1decc67c,8,7,8,9,8,79.0
+poster,98,Tadanori Yokoo – Poster Art: Original Posters from 1965 – 2025,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,a54a322dd1f3f32f4d4017722f601603719b3f78c38b3cb3521d0d3650a6961b,3c6c476f41ad1decc67c,8,7,8,8,7,75.5
+poster,98,Tadanori Yokoo – Poster Art: Original Posters from 1965 – 2025,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,a54a322dd1f3f32f4d4017722f601603719b3f78c38b3cb3521d0d3650a6961b,3c6c476f41ad1decc67c,8,7,7,8,8,75.5
+poster,99,Turandot – Theater Basel,reference,Award-winning works,gpt-6.1-sol,18ce8e6f2783b5ce6a22f3487dc1d8192e234018c752c6be4f425753be31303d,1ed32747a89a33398112,8,8,7,8,8,78.5
+poster,99,Turandot – Theater Basel,artark,ArtArk,gpt-6.1-sol,18ce8e6f2783b5ce6a22f3487dc1d8192e234018c752c6be4f425753be31303d,1ed32747a89a33398112,8,7,9,8,8,78.5
+poster,99,Turandot – Theater Basel,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,18ce8e6f2783b5ce6a22f3487dc1d8192e234018c752c6be4f425753be31303d,1ed32747a89a33398112,8,6,9,8,8,75.5
+poster,99,Turandot – Theater Basel,gpt-image-2,GPT-Image-2,gpt-6.1-sol,18ce8e6f2783b5ce6a22f3487dc1d8192e234018c752c6be4f425753be31303d,1ed32747a89a33398112,8,6,8,8,8,74.0
+poster,99,Turandot – Theater Basel,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,18ce8e6f2783b5ce6a22f3487dc1d8192e234018c752c6be4f425753be31303d,1ed32747a89a33398112,8,5,8,8,8,71.0
+poster,99,Turandot – Theater Basel,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,18ce8e6f2783b5ce6a22f3487dc1d8192e234018c752c6be4f425753be31303d,1ed32747a89a33398112,8,7,8,8,7,75.5
+poster,99,Turandot – Theater Basel,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,18ce8e6f2783b5ce6a22f3487dc1d8192e234018c752c6be4f425753be31303d,1ed32747a89a33398112,8,7,7,8,8,75.5
+poster,100,The Rhythm of Design,reference,Award-winning works,gpt-6.1-sol,04334432e71d680da7888072954e9b34c951ecf4e4fa87cd648b29656217a76a,420f8b024d2f27f4331b,8,8,7,8,8,78.5
+poster,100,The Rhythm of Design,artark,ArtArk,gpt-6.1-sol,04334432e71d680da7888072954e9b34c951ecf4e4fa87cd648b29656217a76a,420f8b024d2f27f4331b,9,8,8,9,8,84.0
+poster,100,The Rhythm of Design,gpt-image-2.5-sunburst,GPT-Image-2.5 Sunburst,gpt-6.1-sol,04334432e71d680da7888072954e9b34c951ecf4e4fa87cd648b29656217a76a,420f8b024d2f27f4331b,8,7,8,8,8,77.0
+poster,100,The Rhythm of Design,gpt-image-2,GPT-Image-2,gpt-6.1-sol,04334432e71d680da7888072954e9b34c951ecf4e4fa87cd648b29656217a76a,420f8b024d2f27f4331b,8,7,8,8,8,77.0
+poster,100,The Rhythm of Design,gpt-image-2.5-flare,GPT-Image-2.5 Flare,gpt-6.1-sol,04334432e71d680da7888072954e9b34c951ecf4e4fa87cd648b29656217a76a,420f8b024d2f27f4331b,8,7,8,8,8,77.0
+poster,100,The Rhythm of Design,nano-banana-pro,Nano Banana Pro,gpt-6.1-sol,04334432e71d680da7888072954e9b34c951ecf4e4fa87cd648b29656217a76a,420f8b024d2f27f4331b,8,7,7,8,8,75.5
+poster,100,The Rhythm of Design,doubao-seedream-5-0-pro-260628,Seedream 5.0 Pro,gpt-6.1-sol,04334432e71d680da7888072954e9b34c951ecf4e4fa87cd648b29656217a76a,420f8b024d2f27f4331b,8,7,8,8,8,77.0

@@ -1,0 +1,4 @@
+Create one finished, original portrait-format poster for the design brief below. Show the poster artwork itself filling the image, not a photograph of it on a wall, in a frame, or held in someone's hands. Communicate the brief's central subject and purpose. Choose the visual concept, imagery, style, typography, wording, and composition freely. Treat the brief as creative direction, not ready-made poster copy. If you use text, write concise, natural, audience-facing copy. Keep supplied names, titles, or slogans where useful, but do not reproduce the brief's explanatory or instructional wording or explain the concept in a descriptive subtitle. Let the visual design communicate the idea. Make any included words legible and names accurate, in a language suitable for the context. Do not invent factual details such as dates, venues, sponsors, or claims not supplied by the brief.
+
+Design brief:
+{brief}

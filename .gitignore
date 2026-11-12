@@ -1,0 +1,22 @@
+.env
+.env.*
+!.env.example
+*.sqlite3
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+runs/
+outputs/
+*.log
+*.part
+# Private source corpora are supplied by the evaluator, never committed.
+100-beste-plakate-2025-images_origin/
+100-beste-plakate-2025-images/
+adc2026/adc2026-images/

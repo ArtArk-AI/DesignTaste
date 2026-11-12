@@ -1,0 +1,41 @@
+{
+  "version": "draft-6",
+  "score_scale": "Score each dimension with an integer from 0 to 10, based on visible evidence. 0-2: severe weakness; 3-4: clear weakness; 5-6: adequate or mixed; 7-8: strong; 9-10: exceptional and rare. Calibrate each dimension to its own criterion. Do not assign a low score merely because an optional element or an explicit explanation is absent.",
+  "dimensions": [
+    {
+      "id": "brief_communication",
+      "name": "Thematic expression",
+      "name_zh": "主题表达力",
+      "weight": 2,
+      "criterion": "Judge the coherence and expressive force of the idea, mood, or subject that emerges from the poster itself. The brief is reconstructed context, not the original commissioning brief or a checklist; use it only to orient your reading, and do not score compliance with inferred design intentions. A poster can succeed through abstraction, metaphor, atmosphere, ambiguity, or an interpretation of its own. Do not lower this score just because the image differs from the brief, omits inferred details, or does not state its purpose literally. Give 5-6 when the expression is understandable but generic, limited, or uneven; 7-8 when its idea or mood is purposeful and compelling; and 9-10 when the expression is especially resonant and integrated. Reserve 0-4 for weak expression on the poster's own terms or a clear contradiction of its apparent purpose, not for a mismatch with inferred details. Assess legibility and information hierarchy under visual organization; do not count them again here. Judge expressive force here and distinctiveness under conceptual originality."
+    },
+    {
+      "id": "conceptual_originality",
+      "name": "Conceptual originality",
+      "name_zh": "创意独创性",
+      "weight": 3,
+      "criterion": "Assess the strength and distinctiveness of the central idea evident in the poster, considering its apparent subject and context without requiring it to match the reconstructed brief. Do not reward novelty, surprise, or obscurity when they weaken the idea itself."
+    },
+    {
+      "id": "visual_organization",
+      "name": "Visual organization",
+      "name_zh": "视觉组织",
+      "weight": 1.5,
+      "criterion": "Assess composition, hierarchy, contrast, spacing, focal point, and viewing path as one visual system. When text is present, consider its legibility and role within that system; text is not required."
+    },
+    {
+      "id": "aesthetic_expression",
+      "name": "Aesthetic expression",
+      "name_zh": "审美表现力",
+      "weight": 2,
+      "criterion": "Assess the expressiveness and aptness of the visual language, including its atmosphere and image-level impact. Do not equate quality with photorealism, complexity, conventional taste, or surface polish."
+    },
+    {
+      "id": "formal_resolution",
+      "name": "Visual coherence and finish",
+      "name_zh": "形式完成度",
+      "weight": 1.5,
+      "criterion": "Assess the coherence and control of the visual elements and details in the presented image. Distinguish intentional roughness or experimentation from accidental unresolved artifacts. Judge the visible image, not unobservable print or production quality."
+    }
+  ]
+}
