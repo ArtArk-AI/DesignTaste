@@ -12,6 +12,7 @@
   <a href="#quick-start"><b>Quick start</b></a> &nbsp;&middot;&nbsp;
   <a href="#benchmark"><b>Benchmark</b></a> &nbsp;&middot;&nbsp;
   <a href="#data"><b>Data</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://huggingface.co/datasets/ArtArk/DesignTaste"><b>Hugging Face</b></a> &nbsp;&middot;&nbsp;
   <a href="#citation"><b>Citation</b></a>
 </p>
 
@@ -161,6 +162,21 @@ The first three rows are Poster tasks. The remaining five cover advertising, bra
 
 The release includes **403 reviewed briefs** and **2,821 image-score records**: one award-winning work and six generated images per task.
 
+**[Browse and download the dataset on Hugging Face](https://huggingface.co/datasets/ArtArk/DesignTaste)**, including all **2,418 generated images**, design briefs, scores, and official download links for the **403 award-winning works**.
+
+```python
+from datasets import load_dataset
+
+generated = load_dataset(
+    "ArtArk/DesignTaste", "generated", split="test", streaming=True
+)
+example = next(iter(generated))
+image = example["image"]
+print(example["brief"], example["model_name"])
+```
+
+Install `datasets` to run this example. The `tasks` configuration contains the 403 briefs and reference links. The `ratings` configuration contains all 2,821 scores. Streaming lets you inspect images without downloading the full collection.
+
 | Resource | Poster | ADC |
 | :--- | :--- | :--- |
 | Task metadata | [100 tasks](data/manifests/poster.csv) | [303 tasks](data/manifests/adc.csv) |
@@ -169,7 +185,7 @@ The release includes **403 reviewed briefs** and **2,821 image-score records**: 
 | Image scores | [700 records](data/annotations/poster_scores.csv) | [2,121 records](data/annotations/adc_scores.csv) |
 | Prompts | [Poster](prompts/poster/) | [ADC](prompts/adc/) |
 
-Task IDs and hashes connect the files. Selected paper figures are included in [assets/](assets/). Full reference and generated-image collections are not bundled. To evaluate a model, use the released briefs and provide one image per task as `<task_id>.png`. The bundled adapters are listed in [models.example.yaml](configs/models.example.yaml).
+Task IDs and hashes connect the files. Selected figures are included in [assets/](assets/). Generated images are hosted on Hugging Face. Award-winning originals remain on their source websites, with download links and attribution provided in the dataset. To evaluate a model, use the released briefs and provide one image per task as `<task_id>.png`. The bundled adapters are listed in [models.example.yaml](configs/models.example.yaml).
 
 <details>
 <summary><b>Repository map</b></summary>
